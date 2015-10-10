@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:myapp="http://schemas.android.com/apk/res/org.toxiclab.droidg"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+<ImageView android:id="@+id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@drawable/gnutella" android:layout_centerHorizontal="true" android:layout_below="@+id/ad"></ImageView>
+<Button android:id="@+id/Button01" android:layout_height="wrap_content" android:text="Connect" android:layout_width="250dp" android:layout_below="@+id/ImageView01" android:layout_centerHorizontal="true"></Button>
+<Button android:id="@+id/Button02" android:layout_height="wrap_content" android:text="Search" android:layout_width="250dp" android:layout_gravity="center_horizontal" android:layout_below="@+id/Button01" android:layout_centerHorizontal="true"></Button>
+<Button android:id="@+id/Button03" android:layout_height="wrap_content" android:text="Download" android:layout_width="250dp" android:layout_gravity="center_horizontal" android:layout_below="@+id/Button02" android:layout_centerHorizontal="true"></Button>
+<Button android:layout_width="wrap_content" android:layout_below="@+id/Button03" android:layout_height="wrap_content" android:id="@+id/Button04" android:text="What's new" android:layout_alignLeft="@+id/Button03" android:layout_alignRight="@+id/Button03"></Button>
+<Button android:id="@+id/Button05" android:layout_width="wrap_content" android:text="Browse Host" android:layout_height="wrap_content" android:layout_below="@+id/Button04" android:layout_alignLeft="@+id/Button04" android:layout_alignRight="@+id/Button04"></Button>
+
+
+
+</RelativeLayout>

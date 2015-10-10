@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:myapp="http://schemas.android.com/apk/res/org.toxiclab.droidg">
+<Button android:layout_height="wrap_content" android:layout_alignParentTop="true" android:id="@+id/Button01" android:layout_width="fill_parent" android:text="Start a new search"></Button>
+
+
+<ListView android:layout_height="fill_parent" android:layout_below="@+id/ad" android:id="@+id/ListView01" android:layout_width="fill_parent" android:layout_alignLeft="@+id/Button01" android:layout_alignRight="@+id/Button01"></ListView>
+</RelativeLayout>

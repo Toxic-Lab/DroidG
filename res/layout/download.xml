@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:myapp="http://schemas.android.com/apk/res/org.toxiclab.droidg">
+
+<ListView android:id="@+id/ListView01" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@+id/ad"></ListView>
+
+</RelativeLayout>

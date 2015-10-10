@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT digest EMPTY>
+<!ATTLIST digest
+	algorithm CDATA #REQUIRED
+	outputsize CDATA #REQUIRED
+>
+<!ELEMENT file EMPTY>
+<!ATTLIST file
+	size CDATA #REQUIRED
+	segmentsize CDATA #REQUIRED
+>
+<!ELEMENT hashtree (file, digest, serializedtree)>
+<!ELEMENT serializedtree EMPTY>
+<!ATTLIST serializedtree
+	depth CDATA #REQUIRED
+	type CDATA #REQUIRED
+	uri CDATA #REQUIRED
+>

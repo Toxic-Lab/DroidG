@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textStyle="bold" android:text="IP Address"></TextView>
+
+<TextView android:id="@+id/TextView02" android:layout_below="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Vendor"></TextView>
+
+<TextView android:id="@+id/TextView03" android:layout_below="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:text="Status"></TextView>
+</RelativeLayout>

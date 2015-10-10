@@ -1,0 +1,4223 @@
+msgid ""
+msgstr ""
+
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-11 10:36+0200\n"
+"PO-Revision-Date: 2009-06-11 11:00+0200\n"
+"Last-Translator: Raul Igual Catalan <>\n"
+"Language-Team: LANGUAGE <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"X-Generator: Pootle 1.1.0\n"
+
+# Extracted fromLang.properties
+
+# common
+#: OK
+msgid "OK"
+msgstr "OK"
+
+#: Apply
+msgid "Apply"
+msgstr "Apply"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Yes
+msgid "Yes"
+msgstr "Yes"
+
+#: No
+msgid "No"
+msgstr "No"
+
+#: YesToAll
+msgid "YesToAll"
+msgstr "Yes to all"
+
+#: NoToAll
+msgid "NoToAll"
+msgstr "No to all"
+
+#: New
+msgid "New"
+msgstr "New"
+
+#: Export
+msgid "Export"
+msgstr "Export"
+
+#: Remove
+msgid "Remove"
+msgstr "Remove"
+
+#: File
+msgid "File"
+msgstr "File"
+
+#: Download
+msgid "Download"
+msgstr "Download"
+
+#: Error
+msgid "Error"
+msgstr "Error"
+
+#: Size
+msgid "Size"
+msgstr "Size"
+
+#: Add
+msgid "Add"
+msgstr "Add"
+
+#: Edit
+msgid "Edit"
+msgstr "Edit"
+
+#: Start
+msgid "Start"
+msgstr "Start"
+
+#: Stop
+msgid "Stop"
+msgstr "Stop"
+
+#: Accept
+msgid "Accept"
+msgstr "Accept"
+
+#: Never
+msgid "Never"
+msgstr "Never"
+
+#: Session
+msgid "Session"
+msgstr "Session"
+
+#: PercentSign
+msgid "PercentSign"
+msgstr "%"
+
+#: ColonSign
+msgid "ColonSign"
+msgstr ":"
+
+#: DontAskAnymore
+msgid "DontAskAnymore"
+msgstr "Don't ask anymore."
+
+#: TimeFormatDH
+msgid "TimeFormatDH"
+msgstr "{0}d {1}h"
+
+#: TimeFormatHM
+msgid "TimeFormatHM"
+msgstr "{0}h {1}m"
+
+#: TimeFormatMS
+msgid "TimeFormatMS"
+msgstr "{0}m {1}s"
+
+#: TimeFormatS
+msgid "TimeFormatS"
+msgstr "{0}s"
+
+#: SHA1
+msgid "SHA1"
+msgstr "SHA1"
+
+#: Negotiate0_6Handshake
+msgid "Negotiate0_6Handshake"
+msgstr "Negotiate 0.6 handshake."
+
+#: TooManyDroppedPackets
+msgid "TooManyDroppedPackets"
+msgstr "Too many dropped packets."
+
+#: SendQueueTooLong
+msgid "SendQueueTooLong"
+msgstr "Send queue too long."
+
+#: NoVendorString
+msgid "NoVendorString"
+msgstr "No vendor string."
+
+#: FreeloaderNotSharing
+msgid "FreeloaderNotSharing"
+msgstr "Freeloader (not sharing enough files/MB)"
+
+#: NotResponding
+msgid "NotResponding"
+msgstr "Not Responding."
+
+#: FailedToLaunchBrowser
+msgid "FailedToLaunchBrowser"
+msgstr "Failed to launch browser."
+
+#: FailedToLaunchBrowserURLInClipboard
+msgid "FailedToLaunchBrowserURLInClipboard"
+msgstr "Failed to launch browser.\nCopy URL to clipboard?"
+
+#: ViewBitziTicket
+msgid "ViewBitziTicket"
+msgstr "View the Bitzi ticket"
+
+#: TTTViewBitziTicket
+msgid "TTTViewBitziTicket"
+msgstr "Show the Bitzi ticket of the selected file on the web."
+
+#: ChatToHost
+msgid "ChatToHost"
+msgstr "Chat to Host"
+
+#: TTTChatToHost
+msgid "TTTChatToHost"
+msgstr "Opens a chat connection to the host."
+
+#: WizardDialog_Back
+msgid "WizardDialog_Back"
+msgstr "Back"
+
+#: WizardDialog_Next
+msgid "WizardDialog_Next"
+msgstr "Next"
+
+#: WizardDialog_Finish
+msgid "WizardDialog_Finish"
+msgstr "Finish"
+
+#: WizardDialog_Cancel
+msgid "WizardDialog_Cancel"
+msgstr "Cancel"
+
+# Global Actions and Menu
+#: Network
+msgid "Network"
+msgstr "Network"
+
+#: NetworkMnemonic
+msgid "NetworkMnemonic"
+msgstr "N"
+
+#: View
+msgid "View"
+msgstr "View"
+
+#: ViewMnemonic
+msgid "ViewMnemonic"
+msgstr "V"
+
+#: Settings
+msgid "Settings"
+msgstr "Settings"
+
+#: SettingsMnemonic
+msgid "SettingsMnemonic"
+msgstr "S"
+
+#: Help
+msgid "Help"
+msgstr "Help"
+
+#: HelpMnemonic
+msgid "HelpMnemonic"
+msgstr "H"
+
+#: Close
+msgid "Close"
+msgstr "Close"
+
+#: Exit
+msgid "Exit"
+msgstr "Exit"
+
+#: TTTExitPhex
+msgid "TTTExitPhex"
+msgstr "Exit Phex"
+
+#: ExitMnemonic
+msgid "ExitMnemonic"
+msgstr "x"
+
+#: ExitAccelerator
+msgid "ExitAccelerator"
+msgstr "alt F4"
+
+#: Disconnect
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: TTTDisconnect
+msgid "TTTDisconnect"
+msgstr "Disconnect from network."
+
+#: DisconnectMnemonic
+msgid "DisconnectMnemonic"
+msgstr "D"
+
+#: DisconnectAccelerator
+msgid "DisconnectAccelerator"
+msgstr "control D"
+
+#: Connect
+msgid "Connect"
+msgstr "Connect"
+
+#: TTTConnect
+msgid "TTTConnect"
+msgstr "Connect to network."
+
+#: ConnectMnemonic
+msgid "ConnectMnemonic"
+msgstr "C"
+
+#: ConnectAccelerator
+msgid "ConnectAccelerator"
+msgstr "control B"
+
+#: SelectNetwork
+msgid "SelectNetwork"
+msgstr "Select Network"
+
+#: TTTSelectNetwork
+msgid "TTTSelectNetwork"
+msgstr "Selects the Gnutella network."
+
+#: SelectNetworkMnemonic
+msgid "SelectNetworkMnemonic"
+msgstr "S"
+
+#: SelectNetworkAccelerator
+msgid "SelectNetworkAccelerator"
+msgstr "control W"
+
+#: ToggleTabAction
+msgid "ToggleTabAction"
+msgstr "{0}"
+
+#: TTTToggleTabActionHide
+msgid "TTTToggleTabActionHide"
+msgstr "Hide {0} tab."
+
+#: TTTToggleTabActionShow
+msgid "TTTToggleTabActionShow"
+msgstr "Show {0} tab."
+
+#: ToggleToolbarAction
+msgid "ToggleToolbarAction"
+msgstr "Toolbar"
+
+#: TTTToggleToolbarActionHide
+msgid "TTTToggleToolbarActionHide"
+msgstr "Hide toolbar"
+
+#: TTTToggleToolbarActionShow
+msgid "TTTToggleToolbarActionShow"
+msgstr "Show toolbar"
+
+#: ToggleStatusbarAction
+msgid "ToggleStatusbarAction"
+msgstr "Status Bar"
+
+#: TTTToggleStatusbarActionHide
+msgid "TTTToggleStatusbarActionHide"
+msgstr "Hide status bar"
+
+#: TTTToggleStatusbarActionShow
+msgid "TTTToggleStatusbarActionShow"
+msgstr "Show status bar"
+
+#: PhexHomepage
+msgid "PhexHomepage"
+msgstr "Phex Homepage"
+
+#: TTTPhexHomepage
+msgid "TTTPhexHomepage"
+msgstr "Visit the Phex homepage."
+
+#: PhexHomepageMnemonic
+msgid "PhexHomepageMnemonic"
+msgstr "P"
+
+#: PhexForum
+msgid "PhexForum"
+msgstr "Phex Forum"
+
+#: TTTPhexForum
+msgid "TTTPhexForum"
+msgstr "Visit the Phex forum."
+
+#: PhexForumMnemonic
+msgid "PhexForumMnemonic"
+msgstr "F"
+
+#: Options
+msgid "Options"
+msgstr "Options"
+
+#: OptionsMnemonic
+msgid "OptionsMnemonic"
+msgstr "O"
+
+#: TTTOptions
+msgid "TTTOptions"
+msgstr "Configure Phex"
+
+#: OptionsAccelerator
+msgid "OptionsAccelerator"
+msgstr "control O"
+
+#: FilteredPorts
+msgid "FilteredPorts"
+msgstr "Filtered Ports"
+
+#: TTTFilteredPorts
+msgid "TTTFilteredPorts"
+msgstr "Filters Ports in the host catchers"
+
+#: FilteredPortsMnemonic
+msgid "FilteredPortsMnemonic"
+msgstr "F"
+
+#: RescanSharedFiles
+msgid "RescanSharedFiles"
+msgstr "Rescan Shared Files"
+
+#: TTTRescanSharedFiles
+msgid "TTTRescanSharedFiles"
+msgstr "Rescan the directories to build the list of files to share."
+
+#: RescanSharedFilesMnemonic
+msgid "RescanSharedFilesMnemonic"
+msgstr "R"
+
+#: AddToFavorites
+msgid "AddToFavorites"
+msgstr "Add to Favorites"
+
+#: TTTAddToFavorites
+msgid "TTTAddToFavorites"
+msgstr "Adds the selection to the Favorites list."
+
+#: GlobalAction_NewDownload
+msgid "GlobalAction_NewDownload"
+msgstr "New Downloads"
+
+#: GlobalAction_TTTNewDownload
+msgid "GlobalAction_TTTNewDownload"
+msgstr "Create new downloads via Magnet-Link, Magma-Liste or RSS-Feed."
+
+#: GlobalAction_NewDownloadMnemonic
+msgid "GlobalAction_NewDownloadMnemonic"
+msgstr "N"
+
+#: GlobalAction_NewDownloadAccelerator
+msgid "GlobalAction_NewDownloadAccelerator"
+msgstr "control N"
+
+# Generic ban host action strings
+#: BanHostAction_BanHost
+msgid "BanHostAction_BanHost"
+msgstr "Ban Host"
+
+#: BanHostAction_TTTBanHost7Days
+msgid "BanHostAction_TTTBanHost7Days"
+msgstr "Ban the selected hosts for 7 days."
+
+#: BanHostAction_1Day
+msgid "BanHostAction_1Day"
+msgstr "1 Day"
+
+#: BanHostAction_7Days
+msgid "BanHostAction_7Days"
+msgstr "7 Days"
+
+#: BanHostAction_Unlimited
+msgid "BanHostAction_Unlimited"
+msgstr "Unlimited"
+
+#: BanHostAction_Custom
+msgid "BanHostAction_Custom"
+msgstr "Custom..."
+
+# FilteredPorts dialog strings
+#: FilteredPorts_Title
+msgid "FilteredPorts_Title"
+msgstr "List of host ports to filter out"
+
+#: FilteredPorts_FilterPort
+msgid "FilteredPorts_FilterPort"
+msgstr "Filter port: "
+
+#: FilteredPorts_FilteredPorts
+msgid "FilteredPorts_FilteredPorts"
+msgstr "Filtered ports:"
+
+# Chat
+#: ChattingWith
+msgid "ChattingWith"
+msgstr "Chatting with {0}"
+
+#: ChatConnectionClosed
+msgid "ChatConnectionClosed"
+msgstr "Chat connection to {0} closed."
+
+#: You
+msgid "You"
+msgstr "You"
+
+#: NotConnected
+msgid "NotConnected"
+msgstr "You are not connected."
+
+# SysTray
+#: OpenPhex
+msgid "OpenPhex"
+msgstr "Open Phex"
+
+#: ExitPhex
+msgid "ExitPhex"
+msgstr "Exit Phex"
+
+# About
+#: AboutPhex_DialogTitle
+msgid "AboutPhex_DialogTitle"
+msgstr "About Phex"
+
+#: AboutPhex_VersionInfo
+msgid "AboutPhex_VersionInfo"
+msgstr "Version: {0} (Build: {1})"
+
+#: AboutPhex_About
+msgid "AboutPhex_About"
+msgstr "About"
+
+#: AboutPhex_Environment
+msgid "AboutPhex_Environment"
+msgstr "Environment"
+
+#: AboutPhex_AboutText
+msgid "AboutPhex_AboutText"
+msgstr "<b>Phex</b> - Open Source P2P Filesharing Program<br>\            Licensed under the GNU General Public License<br><br>\            (c) Copyright Phex contributers and others 2001-2008. All rights reserved.<br>\            Visit: {0}<br><br>\            This product includes software developed by the<br>\            Apache Software Foundation http://www.apache.org and<br>\            under the Apache License http://www.apache.org/licenses<br><br>\            Phex is based on Furi 0.6.8 ( 08/02/2000 ) by William W. Wong<br><br>"
+
+#: AboutPhex_AboutPhex
+msgid "AboutPhex_AboutPhex"
+msgstr "About Phex..."
+
+#: AboutPhex_TTTAboutPhex
+msgid "AboutPhex_TTTAboutPhex"
+msgstr "About this program."
+
+#: AboutPhex_AboutPhexMnemonic
+msgid "AboutPhex_AboutPhexMnemonic"
+msgstr "A"
+
+# StatusBar
+#: StatusBar_Connections
+msgid "StatusBar_Connections"
+msgstr "Connections: {0}"
+
+#: StatusBar_TTTConnections
+msgid "StatusBar_TTTConnections"
+msgstr "Number of: connected peers."
+
+#: StatusBar_Downloads
+msgid "StatusBar_Downloads"
+msgstr "{0}/{1}/{2}"
+
+#: StatusBar_TTTDownloads
+msgid "StatusBar_TTTDownloads"
+msgstr "Number of: downloading files / total download files / finished downloads."
+
+#: StatusBar_Uploads
+msgid "StatusBar_Uploads"
+msgstr "{0}/{1}/{2}"
+
+#: StatusBar_TTTUploads
+msgid "StatusBar_TTTUploads"
+msgstr "Number of: running uploads / queued uploads / finished uploads."
+
+# New Download Dialog
+#: NewDownload_DialogTitle
+msgid "NewDownload_DialogTitle"
+msgstr "New Downloads"
+
+#: NewDownload_BannerHeader
+msgid "NewDownload_BannerHeader"
+msgstr "New Downloads"
+
+#: NewDownload_BannerSubHeader
+msgid "NewDownload_BannerSubHeader"
+msgstr "Add new downloads from Magnet URI, URL or Magma File"
+
+#: NewDownload_ByUrl
+msgid "NewDownload_ByUrl"
+msgstr "By URL"
+
+#: NewDownload_UrlToDownload
+msgid "NewDownload_UrlToDownload"
+msgstr "URL to download:"
+
+#: NewDownload_Examples
+msgid "NewDownload_Examples"
+msgstr "Examples"
+
+#: NewDownload_ByMagmaFile
+msgid "NewDownload_ByMagmaFile"
+msgstr "By Magma file"
+
+#: NewDownload_ByRSSFile
+msgid "NewDownload_ByRSSFile"
+msgstr "By RSS file"
+
+#: NewDownload_MagmaFile
+msgid "NewDownload_MagmaFile"
+msgstr "Magma file:"
+
+#: NewDownload_RSSFile
+msgid "NewDownload_RSSFile"
+msgstr "RSS file:"
+
+#: NewDownload_Browse
+msgid "NewDownload_Browse"
+msgstr "Browse..."
+
+#: NewDownload_SelectMagmaFile
+msgid "NewDownload_SelectMagmaFile"
+msgstr "Select Magma file"
+
+#: NewDownload_SelectRSSFile
+msgid "NewDownload_SelectRSSFile"
+msgstr "Select RSS file"
+
+#: NewDownload_SelectFile
+msgid "NewDownload_SelectFile"
+msgstr "Select File"
+
+#: NewDownload_CreatingMagma
+msgid "NewDownload_CreatingMagma"
+msgstr "Creating Magma files"
+
+#: NewDownload_CreatingRSS
+msgid "NewDownload_CreatingRSS"
+msgstr "Creating RSS-Feeds"
+
+#: NewDownload_MagmaHowTo
+msgid "NewDownload_MagmaHowTo"
+msgstr "<html>To create a Magma file, use the export button in the library pane and choose 'Magma list (YAML)' as export format.</html>"
+
+#: NewDownload_RSSHowTo
+msgid "NewDownload_RSSHowTo"
+msgstr "<html>To create an RSS-feed, use the export button in the library pane and choose 'RSS-Feed (XML)' as export format.</html>"
+
+#: NewDownload_AlreadyDownloadingMessage
+msgid "NewDownload_AlreadyDownloadingMessage"
+msgstr "You are already downloading this file."
+
+#: NewDownload_AlreadyDownloadingTitle
+msgid "NewDownload_AlreadyDownloadingTitle"
+msgstr "Already downloading error"
+
+#: NewDownload_AlreadySharedMessage
+msgid "NewDownload_AlreadySharedMessage"
+msgstr "You are already sharing this file."
+
+#: NewDownload_AlreadySharedTitle
+msgid "NewDownload_AlreadySharedTitle"
+msgstr "Already shared error"
+
+#: NewDownload_FailedToParseMagmaMessage
+msgid "NewDownload_FailedToParseMagmaMessage"
+msgstr "Failed to parse magma file."
+
+#: NewDownload_FailedToParseMagmaTitle
+msgid "NewDownload_FailedToParseMagmaTitle"
+msgstr "Magma parsing error"
+
+#: NewDownload_FailedToCreateDownloadMessage
+msgid "NewDownload_FailedToCreateDownloadMessage"
+msgstr "Failed to create download."
+
+#: NewDownload_FailedToCreateDownloadTitle
+msgid "NewDownload_FailedToCreateDownloadTitle"
+msgstr "New download error"
+
+# Export Dialog
+#: ExportDialog_DialogTitle
+msgid "ExportDialog_DialogTitle"
+msgstr "Export"
+
+#: ExportDialog_BannerHeader
+msgid "ExportDialog_BannerHeader"
+msgstr "Export"
+
+#: ExportDialog_BannerSubHeader
+msgid "ExportDialog_BannerSubHeader"
+msgstr "Export selected shared files to a file."
+
+#: ExportDialog_ExportFormat
+msgid "ExportDialog_ExportFormat"
+msgstr "Export Format"
+
+#: ExportDialog_StandardExportFormat
+msgid "ExportDialog_StandardExportFormat"
+msgstr "Standard Format:"
+
+#: ExportDialog_DefaultHTMLExport
+msgid "ExportDialog_DefaultHTMLExport"
+msgstr "Phex default format (HTML)."
+
+#: TTTExportDialog_DefaultHTMLExport
+msgid "TTTExportDialog_DefaultHTMLExport"
+msgstr "Export the list of file as standard HTML-file with magnet links. "
+
+#: ExportDialog_MagmaYAMLExport
+msgid "ExportDialog_MagmaYAMLExport"
+msgstr "Magma list (YAML)."
+
+#: TTTExportDialog_MagmaYAMLExport
+msgid "TTTExportDialog_MagmaYAMLExport"
+msgstr "Export the list of files as a Magma file in YAML format, which is easy to read and edit. "
+
+#: ExportDialog_RSSXMLExport
+msgid "ExportDialog_RSSXMLExport"
+msgstr "RSS-Feed (XML)."
+
+#: TTTExportDialog_RSSXMLExport
+msgid "TTTExportDialog_RSSXMLExport"
+msgstr "Export the list of files as RSS-Feed, which can be read out by RSS-Readers. \    Magnets are included via the non-standard magnet-tag. "
+
+#: ExportDialog_MetalinkXMLExport
+msgid "ExportDialog_MetalinkXMLExport"
+msgstr "Metalink (XML)."
+
+#: TTTExportDialog_MetalinkXMLExport
+msgid "TTTExportDialog_MetalinkXMLExport"
+msgstr "Export the list of files as metalink, an xml-based download format."
+
+#: ExportDialog_CustomExportFormat
+msgid "ExportDialog_CustomExportFormat"
+msgstr "Custom XSL:"
+
+#: ExportDialog_TTTCustomExportFormat
+msgid "ExportDialog_TTTCustomExportFormat"
+msgstr "Select your own xsl-file to export the files. "
+
+#: ExportDialog_Browse
+msgid "ExportDialog_Browse"
+msgstr "Browse..."
+
+#: ExportDialog_ExportSource
+msgid "ExportDialog_ExportSource"
+msgstr "Export Source"
+
+#: ExportDialog_ExportAllFiles
+msgid "ExportDialog_ExportAllFiles"
+msgstr "Export all shared files."
+
+#: ExportDialog_ExportSelectedFiles
+msgid "ExportDialog_ExportSelectedFiles"
+msgstr "Export {0,choice,0#no selected files|1#one selected file|1<{0,number,integer} selected files}."
+
+#: ExportDialog_Output
+msgid "ExportDialog_Output"
+msgstr "Output"
+
+#: ExportDialog_FileName
+msgid "ExportDialog_FileName"
+msgstr "File name:"
+
+#: ExportDialog_SelectCustomStyleFile
+msgid "ExportDialog_SelectCustomStyleFile"
+msgstr "Select custom export style file"
+
+#: ExportDialog_SelectOutputFile
+msgid "ExportDialog_SelectOutputFile"
+msgstr "Select output file"
+
+#: ExportDialog_Options
+msgid "ExportDialog_Options"
+msgstr "Options"
+
+#: ExportDialog_MagnetIncludeXS
+msgid "ExportDialog_MagnetIncludeXS"
+msgstr "Include your address for each file."
+
+#: ExportDialog_TTTMagnetIncludeXS
+msgid "ExportDialog_TTTMagnetIncludeXS"
+msgstr "This option includes a download link with your IP \   in the Magnet URL by using the xs parameter, which increases the availability \   but includes your identity in the List."
+
+#: ExportDialog_MagnetIncludeFreebase
+msgid "ExportDialog_MagnetIncludeFreebase"
+msgstr "Include the freebase ip-cache for each file."
+
+#: ExportDialog_TTTMagnetIncludeFreebase
+msgid "ExportDialog_TTTMagnetIncludeFreebase"
+msgstr "This Option includes a link to the freebase.be ip-cache, \   which increases connectivity for your files, \   by caching up to 10 IP addresses of those who access it for a short time. "
+
+# SlideInWindow
+#: SlideInWindow_Hide
+msgid "SlideInWindow_Hide"
+msgstr "Hide"
+
+#: SlideInWindow_HideSec
+msgid "SlideInWindow_HideSec"
+msgstr "Hide ({0})"
+
+# NetworkTab
+#: GnutellaNet
+msgid "GnutellaNet"
+msgstr "Gnutella Net"
+
+#: TTTGnutellaNet
+msgid "TTTGnutellaNet"
+msgstr "Displays your network connections."
+
+#: GnutellaNetMnemonic
+msgid "GnutellaNetMnemonic"
+msgstr "N"
+
+#: GnutellaNetAccelerator
+msgid "GnutellaNetAccelerator"
+msgstr "control 1"
+
+#: ConnectionInfo
+msgid "ConnectionInfo"
+msgstr "Connection Info"
+
+#: Connections
+msgid "Connections"
+msgstr "Connections"
+
+#: ConnectTo
+msgid "ConnectTo"
+msgstr "Connect to"
+
+#: AutoCleanup
+msgid "AutoCleanup"
+msgstr "Auto Cleanup"
+
+#: Reset
+msgid "Reset"
+msgstr "Reset"
+
+#: Statistics
+msgid "Statistics"
+msgstr "Statistics"
+
+#: HostType_Outgoing
+msgid "HostType_Outgoing"
+msgstr "Out"
+
+#: HostType_Incoming
+msgid "HostType_Incoming"
+msgstr "In"
+
+#: NetworkTab_MyAddress
+msgid "NetworkTab_MyAddress"
+msgstr "My Address:"
+
+#: NetworkTab_Favorites
+msgid "NetworkTab_Favorites"
+msgstr "Favorites"
+
+#: NetworkTab_ConnectionInfo
+msgid "NetworkTab_ConnectionInfo"
+msgstr "Connection Info"
+
+#: NetworkTab_HostCacheContains
+msgid "NetworkTab_HostCacheContains"
+msgstr "HostCache contains:"
+
+#: NetworkTab_Hosts
+msgid "NetworkTab_Hosts"
+msgstr "hosts."
+
+#: NetworkTab_GWebCacheContains
+msgid "NetworkTab_GWebCacheContains"
+msgstr "GWebCache contains:"
+
+#: NetworkTab_Caches
+msgid "NetworkTab_Caches"
+msgstr "caches."
+
+#: QueryGWebCache
+msgid "QueryGWebCache"
+msgstr "Query GWebCache"
+
+#: TTTQueryGWebCache
+msgid "TTTQueryGWebCache"
+msgstr "Refreshes the host cache and finds new hosts to connect to."
+
+#: AutoConnectHosts
+msgid "AutoConnectHosts"
+msgstr "Auto Connect Hosts"
+
+#: RemoteHost
+msgid "RemoteHost"
+msgstr "Remote Host"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Mode
+msgid "Mode"
+msgstr "Mode"
+
+#: Peer
+msgid "Peer"
+msgstr "Peer"
+
+#: NetworkTable_RxDropQuality
+msgid "NetworkTable_RxDropQuality"
+msgstr "Rx (Drop) Qual."
+
+#: NetworkTable_TxQueuedDropQuality
+msgid "NetworkTable_TxQueuedDropQuality"
+msgstr "Tx (Queue/Drop) Qual."
+
+#: QRT
+msgid "QRT"
+msgstr "QRT"
+
+#: Shared
+msgid "Shared"
+msgstr "Shared"
+
+#: Uptime
+msgid "Uptime"
+msgstr "Uptime"
+
+#: Timeout
+msgid "Timeout"
+msgstr "Timeout"
+
+#: Outgoing
+msgid "Outgoing"
+msgstr "Outgoing"
+
+#: Incoming
+msgid "Incoming"
+msgstr "Incoming"
+
+#: Ultrapeer
+msgid "Ultrapeer"
+msgstr "Ultrapeer"
+
+#: Leaf
+msgid "Leaf"
+msgstr "Leaf"
+
+#: DisconnectHost
+msgid "DisconnectHost"
+msgstr "Disconnect Host"
+
+#: TTTDisconnectHost
+msgid "TTTDisconnectHost"
+msgstr "Closes the connection to the host."
+
+#: BrowseHost
+msgid "BrowseHost"
+msgstr "Browse Host"
+
+#: TTTBrowseHost
+msgid "TTTBrowseHost"
+msgstr "Trys to browse the contents of the host."
+
+#: HostNotResponding
+msgid "HostNotResponding"
+msgstr "Host is not responding."
+
+#: Copy
+msgid "Copy"
+msgstr "Copy"
+
+#: TTTCopyMyIP
+msgid "TTTCopyMyIP"
+msgstr "Copy my IP to clipboard."
+
+# Host Status
+#: NetHostStatus_NotConnected
+msgid "NetHostStatus_NotConnected"
+msgstr "(Not connected)"
+
+#: NetHostStatus_Error
+msgid "NetHostStatus_Error"
+msgstr "Error. {0}"
+
+#: NetHostStatus_Connecting
+msgid "NetHostStatus_Connecting"
+msgstr "Connecting... {0}"
+
+#: NetHostStatus_Accepting
+msgid "NetHostStatus_Accepting"
+msgstr "Accepting... {0}"
+
+#: NetHostStatus_Connected
+msgid "NetHostStatus_Connected"
+msgstr "Connected {0,choice,0#|1#(congestion)}"
+
+#: NetHostStatus_Disconnected
+msgid "NetHostStatus_Disconnected"
+msgstr "Disconnect"
+
+#: NetHostStatus_Unknown
+msgid "NetHostStatus_Unknown"
+msgstr "Unknown"
+
+#NewSearchTab
+#: EditSearch
+msgid "EditSearch"
+msgstr "Edit Search"
+
+#: Filtered
+msgid "Filtered"
+msgstr "Filtered"
+
+#: Results
+msgid "Results"
+msgstr "Results"
+
+#: Progress
+msgid "Progress"
+msgstr "Progress"
+
+#: CloseSearch
+msgid "CloseSearch"
+msgstr "Close Search"
+
+#: TTTCloseSearch
+msgid "TTTCloseSearch"
+msgstr "Stops the search process and removes the search."
+
+#: ClearSearchResults
+msgid "ClearSearchResults"
+msgstr "Clear Search Results"
+
+#: TTTClearSearchResults
+msgid "TTTClearSearchResults"
+msgstr "Clears all search results of the current search."
+
+#: CreateNewSearch
+msgid "CreateNewSearch"
+msgstr "Create New Search"
+
+#: TTTCreateNewSearch
+msgid "TTTCreateNewSearch"
+msgstr "Creates a new search."
+
+#: FilterResults
+msgid "FilterResults"
+msgstr "Filter Results"
+
+#: TTTFilterResults
+msgid "TTTFilterResults"
+msgstr "Uses the conditions to filter search results."
+
+#: RemoveSearchFilter
+msgid "RemoveSearchFilter"
+msgstr "Remove Search Filter"
+
+#: TTTRemoveSearchFilter
+msgid "TTTRemoveSearchFilter"
+msgstr "Clears the search filter of the current search and all input fields."
+
+#: NumberOfHosts
+msgid "NumberOfHosts"
+msgstr "{0} hosts"
+
+#: HostSpeed_Modem
+msgid "HostSpeed_Modem"
+msgstr "Modem"
+
+#: HostSpeed_DSLCable
+msgid "HostSpeed_DSLCable"
+msgstr "DSL/Cable"
+
+#: HostSpeed_T1
+msgid "HostSpeed_T1"
+msgstr "T1"
+
+#: HostSpeed_T3
+msgid "HostSpeed_T3"
+msgstr "T3"
+
+#: HostSpeed_KPerSec_Postfix
+msgid "HostSpeed_KPerSec_Postfix"
+msgstr "K/s"
+
+#SearchTab
+#: Search
+msgid "Search"
+msgstr "Search"
+
+#: TTTSearchTab
+msgid "TTTSearchTab"
+msgstr "Search the network for files."
+
+#: SearchMnemonic
+msgid "SearchMnemonic"
+msgstr "S"
+
+#: SearchAccelerator
+msgid "SearchAccelerator"
+msgstr "control 2"
+
+#: Information
+msgid "Information"
+msgstr "Information"
+
+#: Filter
+msgid "Filter"
+msgstr "Filter"
+
+#: SearchResults
+msgid "SearchResults"
+msgstr "Search Results"
+
+#: Score
+msgid "Score"
+msgstr "Score"
+
+#: HostSpeed
+msgid "HostSpeed"
+msgstr "Speed"
+
+#: Rating
+msgid "Rating"
+msgstr "Rating"
+
+#: QuickDownload
+msgid "QuickDownload"
+msgstr "Quick Download"
+
+#: TTTQuickDownload
+msgid "TTTQuickDownload"
+msgstr "Start download or add as candidate on the selected files."
+
+#: TTTDownload
+msgid "TTTDownload"
+msgstr "Starts download with pre-configuration."
+
+#: TTTRemoveSearch
+msgid "TTTRemoveSearch"
+msgstr "Removes the selected search."
+
+#: SearchTerm
+msgid "SearchTerm"
+msgstr "Search Term"
+
+#: Find
+msgid "Find"
+msgstr "Find"
+
+#: TTTSearch
+msgid "TTTSearch"
+msgstr "Start searching."
+
+#: MinSpeed
+msgid "MinSpeed"
+msgstr "Min. Speed (Kbits/s)"
+
+#: Searches
+msgid "Searches"
+msgstr "Searches"
+
+#: AnyMediaType
+msgid "AnyMediaType"
+msgstr "Any Type"
+
+#: AudioMediaType
+msgid "AudioMediaType"
+msgstr "Audio Files"
+
+#: VideoMediaType
+msgid "VideoMediaType"
+msgstr "Video Files"
+
+#: ProgramMediaType
+msgid "ProgramMediaType"
+msgstr "Programs"
+
+#: ImagesMediaType
+msgid "ImagesMediaType"
+msgstr "Images"
+
+#: DocumentsMediaType
+msgid "DocumentsMediaType"
+msgstr "Documents"
+
+#: RomsMediaType
+msgid "RomsMediaType"
+msgstr "Roms"
+
+#: OpenFormatsType
+msgid "OpenFormatsType"
+msgstr "Open Formats"
+
+#: MetaMediaType
+msgid "MetaMediaType"
+msgstr "Meta"
+
+#: BytesToken
+msgid "BytesToken"
+msgstr "bytes"
+
+#: KBToken
+msgid "KBToken"
+msgstr "KB"
+
+#: MBToken
+msgid "MBToken"
+msgstr "MB"
+
+#: GBToken
+msgid "GBToken"
+msgstr "GB"
+
+#: TBToken
+msgid "TBToken"
+msgstr "TB"
+
+#: BrowsingHost
+msgid "BrowsingHost"
+msgstr "Browsing host {0}."
+
+#: FilterHost
+msgid "FilterHost"
+msgstr "Filter Host"
+
+#: Searching
+msgid "Searching"
+msgstr "Searching"
+
+#: Search_Stopped
+msgid "Search_Stopped"
+msgstr "Done"
+
+#: SearchTab_SearchActivity
+msgid "SearchTab_SearchActivity"
+msgstr "Search Activity"
+
+#: SearchTab_NewSearch
+msgid "SearchTab_NewSearch"
+msgstr "New Search"
+
+#: SearchTab_TTTNewSearch
+msgid "SearchTab_TTTNewSearch"
+msgstr "Create a new search."
+
+#: SearchTab_CloseSearch
+msgid "SearchTab_CloseSearch"
+msgstr "Close Search"
+
+#: SearchTab_TTTCloseSearch
+msgid "SearchTab_TTTCloseSearch"
+msgstr "Stops and removes the search."
+
+#: SearchTab_KeywordSearch
+msgid "SearchTab_KeywordSearch"
+msgstr "Keyword Search"
+
+#: SearchTab_TTTKeywordSearch
+msgid "SearchTab_TTTKeywordSearch"
+msgstr "Search for files by keyword."
+
+#: SearchTab_WhatsNew
+msgid "SearchTab_WhatsNew"
+msgstr "What's New"
+
+#: SearchTab_TTTWhatsNew
+msgid "SearchTab_TTTWhatsNew"
+msgstr "Search for new files on the network."
+
+#: SearchTab_BrowseHost
+msgid "SearchTab_BrowseHost"
+msgstr "Browse Host"
+
+#: SearchTab_TTTBrowseHost
+msgid "SearchTab_TTTBrowseHost"
+msgstr "View all shared files of a host."
+
+#: SearchTab_StartBrowseHost
+msgid "SearchTab_StartBrowseHost"
+msgstr "Browse Host"
+
+#: SearchTab_TTTStartBrowseHost
+msgid "SearchTab_TTTStartBrowseHost"
+msgstr "Start browsing the host."
+
+#: SearchTab_TypeHostAddress
+msgid "SearchTab_TypeHostAddress"
+msgstr "Type the host address here: "
+
+#: SearchTab_TypeYourSearch
+msgid "SearchTab_TypeYourSearch"
+msgstr "Type your keywords here:"
+
+#: SearchTab_StopSearch
+msgid "SearchTab_StopSearch"
+msgstr "Stop"
+
+#: SearchTab_TTTStopSearch
+msgid "SearchTab_TTTStopSearch"
+msgstr "Stops the running search."
+
+#: SearchTab_StartSearch
+msgid "SearchTab_StartSearch"
+msgstr "Start Search"
+
+#: SearchTab_TTTStartSearch
+msgid "SearchTab_TTTStartSearch"
+msgstr "Starts the search."
+
+#: SearchTab_Searching
+msgid "SearchTab_Searching"
+msgstr "Searching..."
+
+#: SearchTab_TTTSearching
+msgid "SearchTab_TTTSearching"
+msgstr "The search is running."
+
+#: SearchTab_WhatsNewSearch
+msgid "SearchTab_WhatsNewSearch"
+msgstr "What's new search"
+
+#: SearchTab_BrowsingHost
+msgid "SearchTab_BrowsingHost"
+msgstr "Browsing host {0}."
+
+#: SearchTab_QuickFilter
+msgid "SearchTab_QuickFilter"
+msgstr "Quick Filter"
+
+#: SearchTab_WithTerms
+msgid "SearchTab_WithTerms"
+msgstr "With Terms:"
+
+#: SearchTab_TTTWithTerms
+msgid "SearchTab_TTTWithTerms"
+msgstr "Only files that contain the given terms are displayed."
+
+#: SearchTab_WithoutTerms
+msgid "SearchTab_WithoutTerms"
+msgstr "Without Terms:"
+
+#: SearchTab_TTTWithoutTerms
+msgid "SearchTab_TTTWithoutTerms"
+msgstr "Only files without the given terms are displayed."
+
+#: SearchTab_FileType
+msgid "SearchTab_FileType"
+msgstr "File Type:"
+
+#: SearchTab_TTTFileType
+msgid "SearchTab_TTTFileType"
+msgstr "Only display files of the selected file type."
+
+#: SearchTab_MinFileSize
+msgid "SearchTab_MinFileSize"
+msgstr "Min. file size:"
+
+#: SearchTab_TTTMinFileSize
+msgid "SearchTab_TTTMinFileSize"
+msgstr "The displayed results will all be larger or equal to the minimum file size."
+
+#: SearchTab_MaxFileSize
+msgid "SearchTab_MaxFileSize"
+msgstr "Max. file size:"
+
+#: SearchTab_TTTMaxFileSize
+msgid "SearchTab_TTTMaxFileSize"
+msgstr "The displayed results will all be smaller or equal to the maximum file size."
+
+#: SearchTab_Information
+msgid "SearchTab_Information"
+msgstr "Information"
+
+#: SearchTab_Status
+msgid "SearchTab_Status"
+msgstr "Status:"
+
+#: SearchTab_TTTStatus
+msgid "SearchTab_TTTStatus"
+msgstr "The current status of the search."
+
+#: SearchTab_TTTProgress
+msgid "SearchTab_TTTProgress"
+msgstr "The progress of the search."
+
+#: SearchTab_TotalResults
+msgid "SearchTab_TotalResults"
+msgstr "Results:"
+
+#: SearchTab_TTTTotalResults
+msgid "SearchTab_TTTTotalResults"
+msgstr "The number of total results of this search."
+
+#: SearchTab_DisplayedResults
+msgid "SearchTab_DisplayedResults"
+msgstr "Displayed:"
+
+#: SearchTab_TTTDisplayedResults
+msgid "SearchTab_TTTDisplayedResults"
+msgstr "The number of results displayed."
+
+#: SearchTab_FilteredResults
+msgid "SearchTab_FilteredResults"
+msgstr "Filtered:"
+
+#: SearchTab_TTTFilteredResults
+msgid "SearchTab_TTTFilteredResults"
+msgstr "The number of filtered results."
+
+#: SearchTab_SearchFilterOptions
+msgid "SearchTab_SearchFilterOptions"
+msgstr "Search Filter Options"
+
+#: SearchTab_FilterRules
+msgid "SearchTab_FilterRules"
+msgstr "Filter Rules"
+
+#: SearchTab_SelectRulesToActivate
+msgid "SearchTab_SelectRulesToActivate"
+msgstr "Select rules to activate"
+
+#: SearchTab_EditFilterRules
+msgid "SearchTab_EditFilterRules"
+msgstr "Edit rules..."
+
+#: SearchTab_TTTEditFilterRules
+msgid "SearchTab_TTTEditFilterRules"
+msgstr "Opens the filter rules edit dialog."
+
+#: SearchTab_ToggleSearchBarAction
+msgid "SearchTab_ToggleSearchBarAction"
+msgstr "Search Bar"
+
+#: SearchTab_TTTToggleSearchBarActionHide
+msgid "SearchTab_TTTToggleSearchBarActionHide"
+msgstr "Hide search bar."
+
+#: SearchTab_TTTToggleSearchBarActionShow
+msgid "SearchTab_TTTToggleSearchBarActionShow"
+msgstr "Show search bar."
+
+#: SearchTab_ToggleSearchListAction
+msgid "SearchTab_ToggleSearchListAction"
+msgstr "Search List"
+
+#: SearchTab_TTTToggleSearchListActionHide
+msgid "SearchTab_TTTToggleSearchListActionHide"
+msgstr "Hide search list."
+
+#: SearchTab_TTTToggleSearchListActionShow
+msgid "SearchTab_TTTToggleSearchListActionShow"
+msgstr "Show search list."
+
+#: SearchTab_ToggleSearchFilterAction
+msgid "SearchTab_ToggleSearchFilterAction"
+msgstr "Search Filter"
+
+#: SearchTab_TTTToggleSearchFilterActionHide
+msgid "SearchTab_TTTToggleSearchFilterActionHide"
+msgstr "Hide search filter."
+
+#: SearchTab_TTTToggleSearchFilterActionShow
+msgid "SearchTab_TTTToggleSearchFilterActionShow"
+msgstr "Show search filter."
+
+#: SearchTab_HostRating_FirewalledTrue
+msgid "SearchTab_HostRating_FirewalledTrue"
+msgstr "Host Firewalled: true"
+
+#: SearchTab_HostRating_FirewalledFalse
+msgid "SearchTab_HostRating_FirewalledFalse"
+msgstr "Host Firewalled: false"
+
+#: SearchTab_HostRating_FirewalledUnknown
+msgid "SearchTab_HostRating_FirewalledUnknown"
+msgstr "Host Firewalled: unknown"
+
+#: SearchTab_HostRating_ServerBusyTrue
+msgid "SearchTab_HostRating_ServerBusyTrue"
+msgstr "Host busy uploading: true"
+
+#: SearchTab_HostRating_ServerBusyFalse
+msgid "SearchTab_HostRating_ServerBusyFalse"
+msgstr "Host busy uploading: false"
+
+#: SearchTab_HostRating_ServerBusyUnknown
+msgid "SearchTab_HostRating_ServerBusyUnknown"
+msgstr "Host busy uploading: unknown"
+
+#: SearchTab_HostRating_HasUploadedTrue
+msgid "SearchTab_HostRating_HasUploadedTrue"
+msgstr "Host has uploaded: true"
+
+#: SearchTab_HostRating_HasUploadedFalse
+msgid "SearchTab_HostRating_HasUploadedFalse"
+msgstr "Host has uploaded: false"
+
+#: SearchTab_HostRating_HasUploadedUnknown
+msgid "SearchTab_HostRating_HasUploadedUnknown"
+msgstr "Host has uploaded: unknown"
+
+#: SearchTab_HostRating_SupportsBrowseHost
+msgid "SearchTab_HostRating_SupportsBrowseHost"
+msgstr "Host supports browsing."
+
+#: SearchTab_HostRating_SupportsChat
+msgid "SearchTab_HostRating_SupportsChat"
+msgstr "Host supports chat."
+
+#: SearchTab_HostRating_ReceivedViaUdp
+msgid "SearchTab_HostRating_ReceivedViaUdp"
+msgstr "Message received via UDP."
+
+#: BrowseHost_Initializing
+msgid "BrowseHost_Initializing"
+msgstr "Initializing"
+
+#: BrowseHost_Connecting
+msgid "BrowseHost_Connecting"
+msgstr "Connecting"
+
+#: BrowseHost_Fetching
+msgid "BrowseHost_Fetching"
+msgstr "Fetching"
+
+#: BrowseHost_Finished
+msgid "BrowseHost_Finished"
+msgstr "Finished"
+
+#: BrowseHost_ConnectionError
+msgid "BrowseHost_ConnectionError"
+msgstr "Connection error"
+
+#: BrowseHost_BrowseHostError
+msgid "BrowseHost_BrowseHostError"
+msgstr "Browse host error"
+
+# DownloadTab
+#: TTTDownloadTab
+msgid "TTTDownloadTab"
+msgstr "Overview of running downloads."
+
+#: DownloadMnemonic
+msgid "DownloadMnemonic"
+msgstr "D"
+
+#: DownloadAccelerator
+msgid "DownloadAccelerator"
+msgstr "control 3"
+
+#: Configure
+msgid "Configure"
+msgstr "Configure"
+
+#: StopSearch
+msgid "StopSearch"
+msgstr "Stop Search"
+
+#: Bytes
+msgid "Bytes"
+msgstr "bytes"
+
+#: DownloadInProgress
+msgid "DownloadInProgress"
+msgstr "Download is in progress"
+
+#: NoConfigDownloadInProgress
+msgid "NoConfigDownloadInProgress"
+msgstr "Can't configure a download while it is in progress.\n \    To configure the download please stop it first."
+
+# SWDownloadTab
+#: DownloadTab_Overview
+msgid "DownloadTab_Overview"
+msgstr "Overview"
+
+#: DownloadTab_NoLimit
+msgid "DownloadTab_NoLimit"
+msgstr "No limit"
+
+#: DownloadTab_DownloadSpeed
+msgid "DownloadTab_DownloadSpeed"
+msgstr "Download Speed"
+
+#: DownloadTab_DownloadOverview
+msgid "DownloadTab_DownloadOverview"
+msgstr "Download Overview"
+
+#: DownloadTab_DownloadTransfers
+msgid "DownloadTab_DownloadTransfers"
+msgstr "Download Transfers"
+
+#: DownloadTab_Transfers
+msgid "DownloadTab_Transfers"
+msgstr "Transfers"
+
+#: SharingHost
+msgid "SharingHost"
+msgstr "Sharing Host"
+
+#: DownloadFiles
+msgid "DownloadFiles"
+msgstr "Download Files"
+
+#: Status
+msgid "Status"
+msgstr "Status"
+
+#: Vendor
+msgid "Vendor"
+msgstr "Vendor"
+
+#: Rate
+msgid "Rate"
+msgstr "Rate"
+
+#: DownloadTable_DownloadTotal
+msgid "DownloadTable_DownloadTotal"
+msgstr "Download Total"
+
+#: DownloadTable_Available
+msgid "DownloadTable_Available"
+msgstr "Available"
+
+#: DownloadTable_ETA
+msgid "DownloadTable_ETA"
+msgstr "ETA"
+
+#: From
+msgid "From"
+msgstr "From"
+
+#: NumberOfCandidates
+msgid "NumberOfCandidates"
+msgstr "# Candidates"
+
+#: DownloadCandidates
+msgid "DownloadCandidates"
+msgstr "Download Candidates"
+
+#: CandidatesSearchingExt
+msgid "CandidatesSearchingExt"
+msgstr "- searching... ({0} Hits - {1}%)"
+
+#: DownloadSegments
+msgid "DownloadSegments"
+msgstr "Download Segments"
+
+#: Candidates
+msgid "Candidates"
+msgstr "Candidates"
+
+#: Segments
+msgid "Segments"
+msgstr "Segments"
+
+#: Priority
+msgid "Priority"
+msgstr "Priority"
+
+#: Ordering
+msgid "Ordering"
+msgstr "Ordering"
+
+#: Created
+msgid "Created"
+msgstr "Created"
+
+#: Downloaded
+msgid "Downloaded"
+msgstr "Downloaded"
+
+#: RemoveDownloadTitle
+msgid "RemoveDownloadTitle"
+msgstr "Remove Download - {0}/{1}"
+
+#: RemoveDownloadWarning
+msgid "RemoveDownloadWarning"
+msgstr "Are you sure you want to remove the file \"{0}\"\n\    from the download list? You have already transfered {1} of {2}. \n\    This data will be lost."
+
+#: StartDownload
+msgid "StartDownload"
+msgstr "Start"
+
+#: TTTStartDownload
+msgid "TTTStartDownload"
+msgstr "Starts a stopped download."
+
+#: StopDownload
+msgid "StopDownload"
+msgstr "Stop"
+
+#: TTTStopDownload
+msgid "TTTStopDownload"
+msgstr "Stops a running download."
+
+#: ConfigureDownload
+msgid "ConfigureDownload"
+msgstr "Configure"
+
+#: TTTConfigureDownload
+msgid "TTTConfigureDownload"
+msgstr "Configures a download."
+
+#: TTTSearchCandidates
+msgid "TTTSearchCandidates"
+msgstr "Search for new candidates."
+
+#: RemoveDownload
+msgid "RemoveDownload"
+msgstr "Remove"
+
+#: TTTRemoveDownload
+msgid "TTTRemoveDownload"
+msgstr "Removes a download."
+
+#: RemoveCandidate
+msgid "RemoveCandidate"
+msgstr "Remove Candidate"
+
+#: TTTRemoveCandidate
+msgid "TTTRemoveCandidate"
+msgstr "Removes a candidate."
+
+#: RetryCandidate
+msgid "RetryCandidate"
+msgstr "Retry candidate"
+
+#: TTTRetryCandidate
+msgid "TTTRetryCandidate"
+msgstr "Schedules a candidate to retry a download connection."
+
+#: MoveToTop
+msgid "MoveToTop"
+msgstr "Move to top"
+
+#: TTTMoveToTop
+msgid "TTTMoveToTop"
+msgstr "Moves the selected download to the top priority."
+
+#: MoveUp
+msgid "MoveUp"
+msgstr "Move up"
+
+#: TTTMoveUp
+msgid "TTTMoveUp"
+msgstr "Moves the selected download one priority up."
+
+#: MoveDown
+msgid "MoveDown"
+msgstr "Move down"
+
+#: TTTMoveDown
+msgid "TTTMoveDown"
+msgstr "Moves the selected download one priority down."
+
+#: MoveToBottom
+msgid "MoveToBottom"
+msgstr "Move to bottom"
+
+#: TTTMoveToBottom
+msgid "TTTMoveToBottom"
+msgstr "Moves the selected download to the lowest priority."
+
+#: Resort
+msgid "Resort"
+msgstr "Re-sort"
+
+#: TTTResort
+msgid "TTTResort"
+msgstr "Re-sort priority based on current table ordering."
+
+#: ExecutePreview
+msgid "ExecutePreview"
+msgstr "View"
+
+#: TTTExecutePreview
+msgid "TTTExecutePreview"
+msgstr "Invoke the configured viewer for this file"
+
+#: DownloadTab_PreviewDownload
+msgid "DownloadTab_PreviewDownload"
+msgstr "Preview"
+
+#: DownloadTab_TTTPreviewDownload
+msgid "DownloadTab_TTTPreviewDownload"
+msgstr "Creates a preview copy of the download in the incomplete directory."
+
+#: DownloadTab_Strategy
+msgid "DownloadTab_Strategy"
+msgstr "Download Strategy"
+
+#: DownloadTab_StrategyAvailability
+msgid "DownloadTab_StrategyAvailability"
+msgstr "Rare Parts First"
+
+#: DownloadTab_StrategyBeginning
+msgid "DownloadTab_StrategyBeginning"
+msgstr "Prioritize File Beginning"
+
+#: DownloadTab_StrategyBeginningEnd
+msgid "DownloadTab_StrategyBeginningEnd"
+msgstr "Prioritize File Beginning & End"
+
+#: DownloadTab_StrategyRandom
+msgid "DownloadTab_StrategyRandom"
+msgstr "Random Parts"
+
+#: DownloadTab_ViewLog
+msgid "DownloadTab_ViewLog"
+msgstr "View Log"
+
+#: DownloadTab_TTTViewLog
+msgid "DownloadTab_TTTViewLog"
+msgstr "Show the download candidate specific log."
+
+#: DownloadOverview_Progress
+msgid "DownloadOverview_Progress"
+msgstr "Progress:"
+
+#: DownloadOverview_Transfer
+msgid "DownloadOverview_Transfer"
+msgstr "Transfer"
+
+#: DownloadOverview_Downloaded
+msgid "DownloadOverview_Downloaded"
+msgstr "Downloaded:"
+
+#: DownloadOverview_Remaining
+msgid "DownloadOverview_Remaining"
+msgstr "Download Remaining:"
+
+#: DownloadOverview_DownloadRate
+msgid "DownloadOverview_DownloadRate"
+msgstr "Download Rate:"
+
+#: DownloadOverview_MaximalRate
+msgid "DownloadOverview_MaximalRate"
+msgstr "Maximal Rate:"
+
+#: DownloadOverview_FileSize
+msgid "DownloadOverview_FileSize"
+msgstr "File Size:"
+
+#: DownloadOverview_EstimatedTime
+msgid "DownloadOverview_EstimatedTime"
+msgstr "Estimated Time:"
+
+#: DownloadOverview_Created
+msgid "DownloadOverview_Created"
+msgstr "Created:"
+
+#: DownloadOverview_LastDownloaded
+msgid "DownloadOverview_LastDownloaded"
+msgstr "Last Downloaded:"
+
+#: DownloadOverview_Candidates
+msgid "DownloadOverview_Candidates"
+msgstr "Candidates"
+
+#: DownloadOverview_DownloadingCandidates
+msgid "DownloadOverview_DownloadingCandidates"
+msgstr "Downloading:"
+
+#: DownloadOverview_QueuedCandidates
+msgid "DownloadOverview_QueuedCandidates"
+msgstr "Queued:"
+
+#: DownloadOverview_ConnectingCandidates
+msgid "DownloadOverview_ConnectingCandidates"
+msgstr "Connecting:"
+
+#: DownloadOverview_GoodCandidates
+msgid "DownloadOverview_GoodCandidates"
+msgstr "Good:"
+
+#: DownloadOverview_BadCandidates
+msgid "DownloadOverview_BadCandidates"
+msgstr "Bad:"
+
+#: DownloadOverview_TotalCandidates
+msgid "DownloadOverview_TotalCandidates"
+msgstr "Total:"
+
+#: DownloadOverview_Information
+msgid "DownloadOverview_Information"
+msgstr "Information"
+
+#: DownloadOverview_FileName
+msgid "DownloadOverview_FileName"
+msgstr "File Name:"
+
+#: DownloadOverview_IncompleteFile
+msgid "DownloadOverview_IncompleteFile"
+msgstr "Location:"
+
+#: DownloadOverview_Explore
+msgid "DownloadOverview_Explore"
+msgstr "Explore directory"
+
+#: DownloadTransfer_Host
+msgid "DownloadTransfer_Host"
+msgstr "Host"
+
+#: DownloadTransfer_Vendor
+msgid "DownloadTransfer_Vendor"
+msgstr "Vendor"
+
+#: DownloadTransfer_From
+msgid "DownloadTransfer_From"
+msgstr "From"
+
+#: DownloadTransfer_To
+msgid "DownloadTransfer_To"
+msgstr "To"
+
+#: DownloadTransfer_Size
+msgid "DownloadTransfer_Size"
+msgstr "Size"
+
+#: DownloadTransfer_Completed
+msgid "DownloadTransfer_Completed"
+msgstr "Completed"
+
+#: DownloadTransfer_Progress
+msgid "DownloadTransfer_Progress"
+msgstr "Progress"
+
+#: DownloadTransfer_Rate
+msgid "DownloadTransfer_Rate"
+msgstr "Rate"
+
+#: DownloadTransfer_ETA
+msgid "DownloadTransfer_ETA"
+msgstr "ETA"
+
+#: DownloadTransfer_Status
+msgid "DownloadTransfer_Status"
+msgstr "Status"
+
+#: LogBufferDialog_DialogTitle
+msgid "LogBufferDialog_DialogTitle"
+msgstr "Display Log"
+
+#: LogBufferDialog_Log
+msgid "LogBufferDialog_Log"
+msgstr "Log"
+
+#: LogBufferDialog_DisplayLog
+msgid "LogBufferDialog_DisplayLog"
+msgstr "Display Log"
+
+#: CandidateStatusReason_ConnectionFailed
+msgid "CandidateStatusReason_ConnectionFailed"
+msgstr "connections failed"
+
+#: CandidateStatusReason_PushRequired
+msgid "CandidateStatusReason_PushRequired"
+msgstr "push required"
+
+#: CandidateStatusReason_PushRouteFailed
+msgid "CandidateStatusReason_PushRouteFailed"
+msgstr "push route failed"
+
+#: CandidateStatusReason_Unusable
+msgid "CandidateStatusReason_Unusable"
+msgstr "unusable"
+
+#: CandidateStatusReason_HTTPError
+msgid "CandidateStatusReason_HTTPError"
+msgstr "HTTP error"
+
+#: CandidateStatusReason_ByUser
+msgid "CandidateStatusReason_ByUser"
+msgstr "by user"
+
+#: CandidateStatusReason_FileNotFound
+msgid "CandidateStatusReason_FileNotFound"
+msgstr "file not found"
+
+# UploadTab
+#: Upload
+msgid "Upload"
+msgstr "Upload"
+
+#: TTTUpload
+msgid "TTTUpload"
+msgstr "Overview of uploads."
+
+#: UploadMnemonic
+msgid "UploadMnemonic"
+msgstr "U"
+
+#: UploadAccelerator
+msgid "UploadAccelerator"
+msgstr "control 4"
+
+#: Uploads
+msgid "Uploads"
+msgstr "Uploads"
+
+#: Host
+msgid "Host"
+msgstr "Host"
+
+#: AbortUpload
+msgid "AbortUpload"
+msgstr "Abort Upload"
+
+#: TTTAbortUpload
+msgid "TTTAbortUpload"
+msgstr "Abort the selected uploads."
+
+#: ClearCompleted
+msgid "ClearCompleted"
+msgstr "Clear Completed"
+
+#: TTTClearCompleted
+msgid "TTTClearCompleted"
+msgstr "Clear completed uploads."
+
+#: RemoveUpload
+msgid "RemoveUpload"
+msgstr "Remove Upload"
+
+#: TTTRemoveUpload
+msgid "TTTRemoveUpload"
+msgstr "Aborts and removes the selected uploads."
+
+#: UploadTab_ViewLog
+msgid "UploadTab_ViewLog"
+msgstr "View Log"
+
+#: UploadTab_TTTViewLog
+msgid "UploadTab_TTTViewLog"
+msgstr "Show the upload specific log."
+
+#: UploadTable_ETA
+msgid "UploadTable_ETA"
+msgstr "ETA"
+
+#: UploadStatus_AcceptingRequest
+msgid "UploadStatus_AcceptingRequest"
+msgstr "Initializing"
+
+#: UploadStatus_Handshake
+msgid "UploadStatus_Handshake"
+msgstr "Handshake"
+
+#: UploadStatus_Queued
+msgid "UploadStatus_Queued"
+msgstr "Host Queued"
+
+#: UploadStatus_UploadingThex
+msgid "UploadStatus_UploadingThex"
+msgstr "Uploading Thex"
+
+#: UploadStatus_UploadingData
+msgid "UploadStatus_UploadingData"
+msgstr "Uploading"
+
+#: UploadStatus_Completed
+msgid "UploadStatus_Completed"
+msgstr "Completed"
+
+#: UploadStatus_Aborted
+msgid "UploadStatus_Aborted"
+msgstr "Aborted"
+
+# Library Tab
+#: Library
+msgid "Library"
+msgstr "Library"
+
+#: TTTLibrary
+msgid "TTTLibrary"
+msgstr "Overview of the shared library."
+
+#: LibraryMnemonic
+msgid "LibraryMnemonic"
+msgstr "L"
+
+#: LibraryAccelerator
+msgid "LibraryAccelerator"
+msgstr "control 5"
+
+#: LibraryTab_Rescan
+msgid "LibraryTab_Rescan"
+msgstr "Rescan"
+
+#: LibraryTab_TTTRescan
+msgid "LibraryTab_TTTRescan"
+msgstr "Rescan the directories to update the shared files list."
+
+#: LibraryTab_Export
+msgid "LibraryTab_Export"
+msgstr "Export"
+
+#: LibraryTab_TTTExport
+msgid "LibraryTab_TTTExport"
+msgstr "Export the shared file list to HTML, Magma, RSS or a self defined format."
+
+#: LibraryTab_OpenFile
+msgid "LibraryTab_OpenFile"
+msgstr "Open file"
+
+#: LibraryTab_TTTOpenFile
+msgid "LibraryTab_TTTOpenFile"
+msgstr "Opens the selected file with its default application."
+
+#: LibraryTab_Filter
+msgid "LibraryTab_Filter"
+msgstr "Filter"
+
+#: LibraryTab_TTTFilter
+msgid "LibraryTab_TTTFilter"
+msgstr "Filter shared files by regular expression."
+
+#: LibraryTab_SharedFiles
+msgid "LibraryTab_SharedFiles"
+msgstr "Shared Files"
+
+#: LibraryTab_Share
+msgid "LibraryTab_Share"
+msgstr "Add folder"
+
+#: LibraryTab_TTTShare
+msgid "LibraryTab_TTTShare"
+msgstr "Add a new folder to share."
+
+#: LibraryTab_StopShare
+msgid "LibraryTab_StopShare"
+msgstr "Hide folder"
+
+#: LibraryTab_TTTStopShare
+msgid "LibraryTab_TTTStopShare"
+msgstr "Hide and stop sharing the selected folder."
+
+#: LibraryTab_SelectDirectoryToShare
+msgid "LibraryTab_SelectDirectoryToShare"
+msgstr "Select directory to share"
+
+#: LibraryTab_Select
+msgid "LibraryTab_Select"
+msgstr "Select"
+
+#: LibraryTab_SelectMnemonic
+msgid "LibraryTab_SelectMnemonic"
+msgstr "S"
+
+#: LibraryTab_Explore
+msgid "LibraryTab_Explore"
+msgstr "Explore"
+
+#: LibraryTab_TTTExplore
+msgid "LibraryTab_TTTExplore"
+msgstr "Open the selected folder in the system explorer."
+
+#: LibraryTab_CopyrightWarnTitle
+msgid "LibraryTab_CopyrightWarnTitle"
+msgstr "Respect copyright laws!"
+
+#: LibraryTab_CopyrightWarnMessage
+msgid "LibraryTab_CopyrightWarnMessage"
+msgstr "Phex must only be used to exchange authorized files.\	                                Don't share copyrighted files and infringe a copyright."
+
+#: LibraryTab_StatsHeader
+msgid "LibraryTab_StatsHeader"
+msgstr "(Files: {0}/{1} - QRT: {2}%/{3}K)"
+
+#: SharedFilesTable_TigerTree
+msgid "SharedFilesTable_TigerTree"
+msgstr "Tiger Tree"
+
+#: SharedFilesTable_AltLocCount
+msgid "SharedFilesTable_AltLocCount"
+msgstr "AltLoc Count"
+
+# Security Tab
+#: Security
+msgid "Security"
+msgstr "Security"
+
+#: TTTSecurity
+msgid "TTTSecurity"
+msgstr "Configure security rules to block hostile hosts."
+
+#: SecurityMnemonic
+msgid "SecurityMnemonic"
+msgstr "e"
+
+#: SecurityAccelerator
+msgid "SecurityAccelerator"
+msgstr "control 6"
+
+#: Address
+msgid "Address"
+msgstr "Address"
+
+#: Expires
+msgid "Expires"
+msgstr "Expires"
+
+#: TriggerCount
+msgid "TriggerCount"
+msgstr "Trigger Count"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: NewSecurityRule
+msgid "NewSecurityRule"
+msgstr "New Rule"
+
+#: TTTNewSecurityRule
+msgid "TTTNewSecurityRule"
+msgstr "Create a new security rule."
+
+#: EditSecurityRule
+msgid "EditSecurityRule"
+msgstr "Edit Rule"
+
+#: TTTEditSecurityRule
+msgid "TTTEditSecurityRule"
+msgstr "Edit the selected security rule."
+
+#: RemoveSecurityRule
+msgid "RemoveSecurityRule"
+msgstr "Remove Rule"
+
+#: TTTRemoveSecurityRule
+msgid "TTTRemoveSecurityRule"
+msgstr "Remove the selected security rule."
+
+#: Deny
+msgid "Deny"
+msgstr "Deny"
+
+#: UserBanned
+msgid "UserBanned"
+msgstr "Banned by user."
+
+#StatisticsTab
+#: TTTStatistics
+msgid "TTTStatistics"
+msgstr "Shows statistics."
+
+#: StatisticsMnemonic
+msgid "StatisticsMnemonic"
+msgstr "t"
+
+#: StatisticsAccelerator
+msgid "StatisticsAccelerator"
+msgstr "control 7"
+
+#: Name
+msgid "Name"
+msgstr "Name"
+
+#: Value
+msgid "Value"
+msgstr "Value"
+
+#: Avg.
+msgid "Avg."
+msgstr "Avg."
+
+#: Max.
+msgid "Max."
+msgstr "Max."
+
+#: TotalBandwidthProvider
+msgid "TotalBandwidthProvider"
+msgstr "Total Bandwidth"
+
+#: NetworkBandwidthProvider
+msgid "NetworkBandwidthProvider"
+msgstr "Network Bandwidth"
+
+#: DownloadBandwidthProvider
+msgid "DownloadBandwidthProvider"
+msgstr "Download Bandwidth"
+
+#: UploadBandwidthProvider
+msgid "UploadBandwidthProvider"
+msgstr "Upload Bandwidth"
+
+#: TotalMsgInProvider
+msgid "TotalMsgInProvider"
+msgstr "Total Messages Received"
+
+#: PingMsgInProvider
+msgid "PingMsgInProvider"
+msgstr "Pings Received"
+
+#: PongMsgInProvider
+msgid "PongMsgInProvider"
+msgstr "Pongs Received"
+
+#: QueryMsgInProvider
+msgid "QueryMsgInProvider"
+msgstr "Querys Received"
+
+#: QueryHitMsgInProvider
+msgid "QueryHitMsgInProvider"
+msgstr "Query Hits Received"
+
+#: PushMsgInProvider
+msgid "PushMsgInProvider"
+msgstr "Push Requests Received"
+
+#: TotalMsgOutProvider
+msgid "TotalMsgOutProvider"
+msgstr "Total Messages Send"
+
+#: PingMsgOutProvider
+msgid "PingMsgOutProvider"
+msgstr "Pings Send"
+
+#: PongMsgOutProvider
+msgid "PongMsgOutProvider"
+msgstr "Pongs Send"
+
+#: QueryMsgOutProvider
+msgid "QueryMsgOutProvider"
+msgstr "Querys Send"
+
+#: QueryHitMsgOutProvider
+msgid "QueryHitMsgOutProvider"
+msgstr "Query Hits Send"
+
+#: PushMsgOutProvider
+msgid "PushMsgOutProvider"
+msgstr "Push Requests Send"
+
+#: DropedMsgTotalProvider
+msgid "DropedMsgTotalProvider"
+msgstr "Total Messages Dropped"
+
+#: DropedMsgInProvider
+msgid "DropedMsgInProvider"
+msgstr "Incoming Messages Dropped"
+
+#: DropedMsgOutProvider
+msgid "DropedMsgOutProvider"
+msgstr "Outgoing Messages Dropped"
+
+#: PushDownloadAttemptsProvider
+msgid "PushDownloadAttemptsProvider"
+msgstr "Push Download Attempts"
+
+#: PushDownloadSucessProvider
+msgid "PushDownloadSucessProvider"
+msgstr "Push Download Success"
+
+#: PushDownloadFailureProvider
+msgid "PushDownloadFailureProvider"
+msgstr "Push Download Failure"
+
+#: PushDldPushProxyAttemptsProvider
+msgid "PushDldPushProxyAttemptsProvider"
+msgstr "Push Proxy Attempts"
+
+#: PushDldPushProxySuccessProvider
+msgid "PushDldPushProxySuccessProvider"
+msgstr "Push Proxy Success"
+
+#: PushUploadAttemptsProvider
+msgid "PushUploadAttemptsProvider"
+msgstr "Push Upload Attempts"
+
+#: PushUploadSucessProvider
+msgid "PushUploadSucessProvider"
+msgstr "Push Upload Success"
+
+#: PushUploadFailureProvider
+msgid "PushUploadFailureProvider"
+msgstr "Push Upload Failure"
+
+#: HorizonHostCountProvider
+msgid "HorizonHostCountProvider"
+msgstr "Horizon Host Count"
+
+#: HorizonFileCountProvider
+msgid "HorizonFileCountProvider"
+msgstr "Horizon File Count"
+
+#: HorizonFileSizeProvider
+msgid "HorizonFileSizeProvider"
+msgstr "Horizon File Size"
+
+#: UptimeProvider
+msgid "UptimeProvider"
+msgstr "Uptime"
+
+#: DailyUptimeProvider
+msgid "DailyUptimeProvider"
+msgstr "Daily Uptime"
+
+# SearchMonitorTab
+#: SearchMonitorTab_SearchMonitor
+msgid "SearchMonitorTab_SearchMonitor"
+msgstr "Search Monitor"
+
+#: SearchMonitorTab_TTTSearchMonitor
+msgid "SearchMonitorTab_TTTSearchMonitor"
+msgstr "Monitor searches going through your node."
+
+#: SearchMonitorTab_Mnemonic
+msgid "SearchMonitorTab_Mnemonic"
+msgstr "m"
+
+#: SearchMonitorTab_Accelerator
+msgid "SearchMonitorTab_Accelerator"
+msgstr "control 8"
+
+#: SearchMonitorTab_enable
+msgid "SearchMonitorTab_enable"
+msgstr "enable"
+
+#: SearchMonitorTab_Show
+msgid "SearchMonitorTab_Show"
+msgstr "Show"
+
+#: SearchMonitorTab_Rows
+msgid "SearchMonitorTab_Rows"
+msgstr "rows."
+
+#: SearchMonitorTab_RoutedFrom
+msgid "SearchMonitorTab_RoutedFrom"
+msgstr "Routed From"
+
+#: SearchMonitorTab_SearchText
+msgid "SearchMonitorTab_SearchText"
+msgstr "Search Text"
+
+#: SearchMonitorTab_HopsTtl
+msgid "SearchMonitorTab_HopsTtl"
+msgstr "Hops / TTL"
+
+# ResultMonitorTab
+#: ResultMonitorTab_ResultMonitor
+msgid "ResultMonitorTab_ResultMonitor"
+msgstr "Result Monitor"
+
+#: ResultMonitorTab_TTTResultMonitor
+msgid "ResultMonitorTab_TTTResultMonitor"
+msgstr "Monitor search results going through your node."
+
+#: ResultMonitorTab_Mnemonic
+msgid "ResultMonitorTab_Mnemonic"
+msgstr "R"
+
+#: ResultMonitorTab_Accelerator
+msgid "ResultMonitorTab_Accelerator"
+msgstr "control 9"
+
+#: ResultMonitorTab_ResultFilter
+msgid "ResultMonitorTab_ResultFilter"
+msgstr "Result Filter"
+
+#: ResultMonitorTab_TTTPassiveSearch
+msgid "ResultMonitorTab_TTTPassiveSearch"
+msgstr "Specify keywords to match, separated by space."
+
+#: ResultMonitorTab_StartPassiveSearch
+msgid "ResultMonitorTab_StartPassiveSearch"
+msgstr "Start Passive Search"
+
+#: ResultMonitorTab_TTTStartPassiveSearch
+msgid "ResultMonitorTab_TTTStartPassiveSearch"
+msgstr "Passive search monitors the search results routed through here. This might take a while."
+
+#: ResultMonitorTab_StopPassiveSearch
+msgid "ResultMonitorTab_StopPassiveSearch"
+msgstr "Stop Passive Search"
+
+# Configuration Wizard
+#: ConfigWizard_DialogTitle
+msgid "ConfigWizard_DialogTitle"
+msgstr "Configuration Wizard"
+
+#: ConfigWizard_BannerHeader
+msgid "ConfigWizard_BannerHeader"
+msgstr "Configuration Wizard"
+
+#: ConfigWizard_BannerSubHeader
+msgid "ConfigWizard_BannerSubHeader"
+msgstr "Helps you to configure the most basic Phex settings."
+
+#: ConfigWizard_WelcomeToPhexHeader
+msgid "ConfigWizard_WelcomeToPhexHeader"
+msgstr "Welcome to Phex"
+
+#: ConfigWizard_WelcomeToPhexText
+msgid "ConfigWizard_WelcomeToPhexText"
+msgstr "This configuration wizard helps you to set up the \    most basic settings necessary to run Phex properly. It's recommended \    to complete this wizard before you continue to use Phex.<p>This wizard only appears \    the first time you run Phex and after important upgrades.<p>All settings can \    also be modified through the options dialog."
+
+#: ConfigWizard_BandwidthHeader
+msgid "ConfigWizard_BandwidthHeader"
+msgstr "Bandwidth Settings"
+
+#: ConfigWizard_BandwidthText
+msgid "ConfigWizard_BandwidthText"
+msgstr "Choose the connection type and speed of your internet connection. "
+
+#: ConfigWizard_ConnectionTypeSpeed
+msgid "ConfigWizard_ConnectionTypeSpeed"
+msgstr "Connection type and speed:"
+
+#: ConfigWizard_BandwidthText2
+msgid "ConfigWizard_BandwidthText2"
+msgstr "To further configure the bandwidth and its distribution \    use the options dialog. You can distribute the bandwidth use between network, \    download and upload and limit the total bandwidth Phex is allowed to use."
+
+#: ConfigWizard_DirectoryHeader
+msgid "ConfigWizard_DirectoryHeader"
+msgstr "Download Directories"
+
+#: ConfigWizard_DirectoryText
+msgid "ConfigWizard_DirectoryText"
+msgstr "Choose the directories Phex should use to store the \    incomplete and completed download files.<br>Phex uses the incomplete directory \    to store the file parts transfered during a download. Once all file parts are transfered \    the whole file is moved to the destination directory."
+
+#: ConfigWizard_Incomplete
+msgid "ConfigWizard_Incomplete"
+msgstr "Incomplete:"
+
+#: ConfigWizard_Destination
+msgid "ConfigWizard_Destination"
+msgstr "Destination:"
+
+#: ConfigWizard_DirectoryText2
+msgid "ConfigWizard_DirectoryText2"
+msgstr "You can adjust the destination directory of an individual \    download using the download configuration dialog. To later change the default \    directory settings you can use the options dialog."
+
+#: ConfigWizard_SetFolder
+msgid "ConfigWizard_SetFolder"
+msgstr "Set Folder"
+
+#: ConfigWizard_SharingHeader
+msgid "ConfigWizard_SharingHeader"
+msgstr "Shared Files"
+
+#: ConfigWizard_SharingText
+msgid "ConfigWizard_SharingText"
+msgstr "Choose the directories you like to share."
+
+#: ConfigWizard_ContentCommunityHeader
+msgid "ConfigWizard_ContentCommunityHeader"
+msgstr "Content Community Subscriptions"
+
+#: ConfigWizard_ContentCommunityText
+msgid "ConfigWizard_ContentCommunityText"
+msgstr "If you want to help spreading free and legal files in Gnutella, you can subscribe to a content community to automatically download selected files. <br><br>If you join a content community, please share your download folder to spread the files. "
+
+#: ConfigWizard_JoinPolarSkulk
+msgid "ConfigWizard_JoinPolarSkulk"
+msgstr "Subscribe to files from the Polar Skulk ( http://polar-skulk.phex.org ). "
+
+#: ConfigWizard_GoodbyeText
+msgid "ConfigWizard_GoodbyeText"
+msgstr "Phex is now ready to be used.<br>You might see high disk activity \    during the next minutes while the shared files are hashed."
+
+#: ConfigWizard_OpenOptions
+msgid "ConfigWizard_OpenOptions"
+msgstr "Open options dialog to view and modify additional settings."
+
+# Advanced Search Rules Dialog
+#: AdvSearchRules_DialogTitle
+msgid "AdvSearchRules_DialogTitle"
+msgstr "Advanced Search Rules"
+
+#: AdvSearchRules_BannerHeader
+msgid "AdvSearchRules_BannerHeader"
+msgstr "Search Rules"
+
+#: AdvSearchRules_BannerSubHeader
+msgid "AdvSearchRules_BannerSubHeader"
+msgstr "Create and change search rules."
+
+#: AdvSearchRules_NewRule
+msgid "AdvSearchRules_NewRule"
+msgstr "New Rule"
+
+#: AdvSearchRules_TTTNewRule
+msgid "AdvSearchRules_TTTNewRule"
+msgstr "Create a new search rule."
+
+#: AdvSearchRules_CopyRule
+msgid "AdvSearchRules_CopyRule"
+msgstr "Copy"
+
+#: AdvSearchRules_TTTCopyRule
+msgid "AdvSearchRules_TTTCopyRule"
+msgstr "Copy selected search rule."
+
+#: AdvSearchRules_ChangeRule
+msgid "AdvSearchRules_ChangeRule"
+msgstr "Change"
+
+#: AdvSearchRules_TTTChangeRule
+msgid "AdvSearchRules_TTTChangeRule"
+msgstr "Change the selected rule with the rule wizard."
+
+#: AdvSearchRules_DeleteRule
+msgid "AdvSearchRules_DeleteRule"
+msgstr "Delete"
+
+#: AdvSearchRules_TTTDeleteRule
+msgid "AdvSearchRules_TTTDeleteRule"
+msgstr "Delete the selected rule."
+
+#: AdvSearchRules_RuleListDescription
+msgid "AdvSearchRules_RuleListDescription"
+msgstr "Rules (evaluated in the displayed order)"
+
+#: AdvSearchRules_TTTMoveUp
+msgid "AdvSearchRules_TTTMoveUp"
+msgstr "Moves the selected rule up in the evaluation order."
+
+#: AdvSearchRules_TTTMoveDown
+msgid "AdvSearchRules_TTTMoveDown"
+msgstr "Moves the selected rule down in the evaluation order."
+
+# Rule Wizard Dialog
+#: RuleWizard_DialogTitle
+msgid "RuleWizard_DialogTitle"
+msgstr "Rule Wizard"
+
+#: RuleWizard_RuleDescription
+msgid "RuleWizard_RuleDescription"
+msgstr "Rule description (to edit click on underlined value)"
+
+#: RuleWizard_SelectRuleCondition
+msgid "RuleWizard_SelectRuleCondition"
+msgstr "Select condition(s) to check"
+
+#: RuleWizard_SelectRuleConsequence
+msgid "RuleWizard_SelectRuleConsequence"
+msgstr "Select desired action"
+
+#: RuleWizard_SelectRuleException
+msgid "RuleWizard_SelectRuleException"
+msgstr "Select exception(s)"
+
+#: RuleWizard_FinalizeRule
+msgid "RuleWizard_FinalizeRule"
+msgstr "Finalize rule."
+
+#: RuleWizard_RuleName
+msgid "RuleWizard_RuleName"
+msgstr "Enter rule name"
+
+#: RuleWizard_TTTRuleName
+msgid "RuleWizard_TTTRuleName"
+msgstr "Enter the name you like to use for this rule."
+
+#: RuleWizard_RuleOptions
+msgid "RuleWizard_RuleOptions"
+msgstr "Define rule options"
+
+#: RuleWizard_PermanentlyEnableRule
+msgid "RuleWizard_PermanentlyEnableRule"
+msgstr "Enable rule permanently"
+
+#: RuleWizard_TTTPermanentlyEnableRule
+msgid "RuleWizard_TTTPermanentlyEnableRule"
+msgstr "A permanently enabled rule is always applied to all searches."
+
+#: RuleWizard_MissingRuleInputTitle
+msgid "RuleWizard_MissingRuleInputTitle"
+msgstr "Missing Input"
+
+#: RuleWizard_MissingRuleInputText
+msgid "RuleWizard_MissingRuleInputText"
+msgstr "A value is missing in the rule description.\n\  To specify a value, click the underlined text in the rule description field."
+
+# Rule based filters
+#: RuleVisualization_And
+msgid "RuleVisualization_And"
+msgstr "and"
+
+#: RuleVisualization_Or
+msgid "RuleVisualization_Or"
+msgstr "or"
+
+#: RuleVisualization_Prefix
+msgid "RuleVisualization_Prefix"
+msgstr "When receiving search results"
+
+#: RuleVisualization_FilenameCond
+msgid "RuleVisualization_FilenameCond"
+msgstr "with --__specific words__-- in the file name"
+
+#: RuleVisualization_FilenameCond_Not
+msgid "RuleVisualization_FilenameCond_Not"
+msgstr "except with --__specific words__-- in the file name"
+
+#: RuleVisualization_MediaTypeCond
+msgid "RuleVisualization_MediaTypeCond"
+msgstr "that are of --__media type__--"
+
+#: RuleVisualization_MediaTypeCond_Not
+msgid "RuleVisualization_MediaTypeCond_Not"
+msgstr "except they are of --__media type__--"
+
+#: RuleVisualization_FileSizeCond
+msgid "RuleVisualization_FileSizeCond"
+msgstr "with a file size --__in a specific range__--"
+
+#: RuleVisualization_FileSizeCond_Not
+msgid "RuleVisualization_FileSizeCond_Not"
+msgstr "except with a file size --__in a specific range__--"
+
+#: RuleVisualization_FileSizeCond_Min
+msgid "RuleVisualization_FileSizeCond_Min"
+msgstr "at least"
+
+#: RuleVisualization_FileSizeCond_Max
+msgid "RuleVisualization_FileSizeCond_Max"
+msgstr "at most"
+
+#: RuleVisualization_FileUrnCond
+msgid "RuleVisualization_FileUrnCond"
+msgstr "with --__urn:sha1:<nss>__-- as file urns"
+
+#: RuleVisualization_FileUrnCond_Not
+msgid "RuleVisualization_FileUrnCond_Not"
+msgstr "except with --__urn:sha1:<nss>__-- as file urns"
+
+#: RuleVisualization_HideFromSearchConseq
+msgid "RuleVisualization_HideFromSearchConseq"
+msgstr "hide them"
+
+#: RuleVisualization_RemoveFromSearchConseq
+msgid "RuleVisualization_RemoveFromSearchConseq"
+msgstr "delete them"
+
+#: RuleVisualization_DownloadFileConseq
+msgid "RuleVisualization_DownloadFileConseq"
+msgstr "download them"
+
+#: RuleVisualization_BanHostConseq
+msgid "RuleVisualization_BanHostConseq"
+msgstr "ban their source (for 7 days)"
+
+#: RuleVisualization_CopyOf
+msgid "RuleVisualization_CopyOf"
+msgstr "Copy of"
+
+# Rule File Size Condition Editor
+#: FileSizeCondEditor_DialogTitle
+msgid "FileSizeCondEditor_DialogTitle"
+msgstr "File Size"
+
+#: FileSizeCondEditor_ConditionToAdd
+msgid "FileSizeCondEditor_ConditionToAdd"
+msgstr "File size range to add:"
+
+#: FileSizeCondEditor_Minimum
+msgid "FileSizeCondEditor_Minimum"
+msgstr "Minimum"
+
+#: FileSizeCondEditor_TTTMinimum
+msgid "FileSizeCondEditor_TTTMinimum"
+msgstr "The minimum size of a file."
+
+#: FileSizeCondEditor_Maximum
+msgid "FileSizeCondEditor_Maximum"
+msgstr "Maximum"
+
+#: FileSizeCondEditor_TTTMaximum
+msgid "FileSizeCondEditor_TTTMaximum"
+msgstr "The maximum size of a file."
+
+#: FileSizeCondEditor_Add
+msgid "FileSizeCondEditor_Add"
+msgstr "Add"
+
+#: FileSizeCondEditor_TTTAdd
+msgid "FileSizeCondEditor_TTTAdd"
+msgstr "Add this range to the conditions."
+
+#: FileSizeCondEditor_FileSizeConditions
+msgid "FileSizeCondEditor_FileSizeConditions"
+msgstr "Assigned conditions:"
+
+#: FileSizeCondEditor_Remove
+msgid "FileSizeCondEditor_Remove"
+msgstr "Remove"
+
+#: FileSizeCondEditor_TTTRemove
+msgid "FileSizeCondEditor_TTTRemove"
+msgstr "Remove selected ranges from the conditions."
+
+# Rule File Name Condition Editor
+#: FileNameCondEditor_DialogTitle
+msgid "FileNameCondEditor_DialogTitle"
+msgstr "File Name"
+
+#: FileNameCondEditor_ConditionToAdd
+msgid "FileNameCondEditor_ConditionToAdd"
+msgstr "File name words to add:"
+
+#: FileNameCondEditor_Term
+msgid "FileNameCondEditor_Term"
+msgstr "Words:"
+
+#: FileNameCondEditor_TTTTerm
+msgid "FileNameCondEditor_TTTTerm"
+msgstr "The words the file name should contain."
+
+#: FileNameCondEditor_Add
+msgid "FileNameCondEditor_Add"
+msgstr "Add"
+
+#: FileNameCondEditor_TTTAdd
+msgid "FileNameCondEditor_TTTAdd"
+msgstr "Add this word to the conditions."
+
+#: FileNameCondEditor_FileNameConditions
+msgid "FileNameCondEditor_FileNameConditions"
+msgstr "Assigned conditions:"
+
+#: FileNameCondEditor_Remove
+msgid "FileNameCondEditor_Remove"
+msgstr "Remove"
+
+#: FileNameCondEditor_TTTRemove
+msgid "FileNameCondEditor_TTTRemove"
+msgstr "Remove selected words from the conditions."
+
+# Rule File Urn Condition Editor
+#: FileUrnCondEditor_DialogTitle
+msgid "FileUrnCondEditor_DialogTitle"
+msgstr "File URN"
+
+#: FileUrnCondEditor_ConditionToAdd
+msgid "FileUrnCondEditor_ConditionToAdd"
+msgstr "URN to add:"
+
+#: FileUrnCondEditor_Urn
+msgid "FileUrnCondEditor_Urn"
+msgstr "Urn:"
+
+#: FileUrnCondEditor_TTTUrn
+msgid "FileUrnCondEditor_TTTUrn"
+msgstr "The urn of a file, in the format urn:sha1:<nss>"
+
+#: FileUrnCondEditor_Add
+msgid "FileUrnCondEditor_Add"
+msgstr "Add"
+
+#: FileUrnCondEditor_TTTAdd
+msgid "FileUrnCondEditor_TTTAdd"
+msgstr "Add this urn to the conditions."
+
+#: FileUrnCondEditor_UrnConditions
+msgid "FileUrnCondEditor_UrnConditions"
+msgstr "Assigned urns:"
+
+#: FileUrnCondEditor_Remove
+msgid "FileUrnCondEditor_Remove"
+msgstr "Remove"
+
+#: FileUrnCondEditor_TTTRemove
+msgid "FileUrnCondEditor_TTTRemove"
+msgstr "Remove selected urns from the conditions."
+
+# Rule Media Type Condition Editor
+#: MediaTypeCondEditor_DialogTitle
+msgid "MediaTypeCondEditor_DialogTitle"
+msgstr "Media Type"
+
+#: MediaTypeCondEditor_ConditionToAdd
+msgid "MediaTypeCondEditor_ConditionToAdd"
+msgstr "Select media types to add"
+
+# Integrated default rule text strings.
+#: AdultFilterRule_Name
+msgid "AdultFilterRule_Name"
+msgstr "Default Filter: Hides adult content"
+
+#: ScamFileFilterRule_Name
+msgid "ScamFileFilterRule_Name"
+msgstr "Default Filter: Hides Scam files"
+
+#: SpamFileFilterRule_Name
+msgid "SpamFileFilterRule_Name"
+msgstr "Default Filter: Blocks Known Spam"
+
+#: NastyFileFilterRule_Name
+msgid "NastyFileFilterRule_Name"
+msgstr "Default Filter: Hides really nasty files"
+
+# Security Dialog
+#: SecurityRuleDialog_DialogTitle
+msgid "SecurityRuleDialog_DialogTitle"
+msgstr "Security Rule"
+
+#: SecurityRuleDialog_BannerHeader_New
+msgid "SecurityRuleDialog_BannerHeader_New"
+msgstr "New Security Rule"
+
+#: SecurityRuleDialog_BannerHeader_Edit
+msgid "SecurityRuleDialog_BannerHeader_Edit"
+msgstr "Edit Security Rule "
+
+#: SecurityRuleDialog_BannerSubHeader
+msgid "SecurityRuleDialog_BannerSubHeader"
+msgstr "Create and edit a security rule."
+
+#: SecurityRuleDialog_SecurityRule
+msgid "SecurityRuleDialog_SecurityRule"
+msgstr "Security Rule"
+
+#: SecurityRuleDialog_Description
+msgid "SecurityRuleDialog_Description"
+msgstr "Description:"
+
+#: SecurityRuleDialog_DisableRule
+msgid "SecurityRuleDialog_DisableRule"
+msgstr "Disable this security rule"
+
+#: SecurityRuleDialog_NetworkAddress
+msgid "SecurityRuleDialog_NetworkAddress"
+msgstr "Network Address"
+
+#: SecurityRuleDialog_IP_CIDR
+msgid "SecurityRuleDialog_IP_CIDR"
+msgstr "IP/CIDR:"
+
+#: SecurityRuleDialog_IP_CIDR_Separator
+msgid "SecurityRuleDialog_IP_CIDR_Separator"
+msgstr "/"
+
+#: SecurityRuleDialog_Options
+msgid "SecurityRuleDialog_Options"
+msgstr "Options"
+
+#: SecurityRuleDialog_ActionType
+msgid "SecurityRuleDialog_ActionType"
+msgstr "Action type"
+
+#: SecurityRuleDialog_Expires
+msgid "SecurityRuleDialog_Expires"
+msgstr "Expires"
+
+#: SecurityRuleDialog_Never
+msgid "SecurityRuleDialog_Never"
+msgstr "Never"
+
+#: SecurityRuleDialog_EndOfSession
+msgid "SecurityRuleDialog_EndOfSession"
+msgstr "End of session"
+
+#: SecurityRuleDialog_After
+msgid "SecurityRuleDialog_After"
+msgstr "After:"
+
+#: SecurityRuleDialog_Days
+msgid "SecurityRuleDialog_Days"
+msgstr "days"
+
+#: SecurityRuleDialog_Hours
+msgid "SecurityRuleDialog_Hours"
+msgstr "hours"
+
+#: SecurityRuleDialog_Minutes
+msgid "SecurityRuleDialog_Minutes"
+msgstr "minutes"
+
+#: SecurityRuleDialog_DeleteRuleAfterExpiry
+msgid "SecurityRuleDialog_DeleteRuleAfterExpiry"
+msgstr "Delete rule after expiry"
+
+#: SecurityRuleDialog_TTTDeleteRuleAfterExpiry
+msgid "SecurityRuleDialog_TTTDeleteRuleAfterExpiry"
+msgstr "If checked the rule gets deleted after expiry,\    otherwise it is just disabled."
+
+#: SecurityRuleDialog_OK
+msgid "SecurityRuleDialog_OK"
+msgstr "OK"
+
+#: SecurityRuleDialog_Cancel
+msgid "SecurityRuleDialog_Cancel"
+msgstr "Cancel"
+
+# Library Filter Dialog
+#: FilterLibraryDialog_DialogTitle
+msgid "FilterLibraryDialog_DialogTitle"
+msgstr "Library Filter"
+
+#: FilterLibraryDialog_BannerHeader
+msgid "FilterLibraryDialog_BannerHeader"
+msgstr "Library Filter"
+
+#: FilterLibraryDialog_BannerSubHeader
+msgid "FilterLibraryDialog_BannerSubHeader"
+msgstr "Filter shared files by regular expression."
+
+#: FilterLibraryDialog_Add
+msgid "FilterLibraryDialog_Add"
+msgstr "Add"
+
+#: FilterLibraryDialog_Edit
+msgid "FilterLibraryDialog_Edit"
+msgstr "Edit"
+
+#: FilterLibraryDialog_Remove
+msgid "FilterLibraryDialog_Remove"
+msgstr "Remove"
+
+#: FilterLibraryDialog_Examples
+msgid "FilterLibraryDialog_Examples"
+msgstr "Examples"
+
+#: FilterLibraryDialog_Example1
+msgid "FilterLibraryDialog_Example1"
+msgstr "Use '.*speech.*' to filter files including the word 'speech'."
+
+#: FilterLibraryDialog_Example2
+msgid "FilterLibraryDialog_Example2"
+msgstr "Use '.*\\.vsb$' to filter files ending with '.vsb'."
+
+#: FilterLibraryDialog_Example3
+msgid "FilterLibraryDialog_Example3"
+msgstr "Use '(?!.*\\.zip$).*' to filter all except ending with '.zip'."
+
+#: FilterLibraryDialogAdd_DialogTitle
+msgid "FilterLibraryDialogAdd_DialogTitle"
+msgstr "New File Filter"
+
+#: FilterLibraryDialogAdd_BannerHeader
+msgid "FilterLibraryDialogAdd_BannerHeader"
+msgstr "Define a New File Filter"
+
+#: FilterLibraryDialogAdd_BannerSubHeader
+msgid "FilterLibraryDialogAdd_BannerSubHeader"
+msgstr "Enter file filter to add: (e.g. '.*\\.vsb$' or 'speech\\.mp3')"
+
+#: FilterLibraryDialogAdd_Filter
+msgid "FilterLibraryDialogAdd_Filter"
+msgstr "Filter to add:"
+
+#: FilterLibraryDialogAdd_InvalidRegExp
+msgid "FilterLibraryDialogAdd_InvalidRegExp"
+msgstr "Invalid regular expression."
+
+# User Messages
+#: UserMsg_SegmentCreateIncompleteFileFailed_Title
+msgid "UserMsg_SegmentCreateIncompleteFileFailed_Title"
+msgstr "Creating File Failed"
+
+#: UserMsg_SegmentCreateIncompleteFileFailed_ShortMessage
+msgid "UserMsg_SegmentCreateIncompleteFileFailed_ShortMessage"
+msgstr "Failed to create file:\n{0}\n\nReason:\n{1}"
+
+#: UserMsg_SegmentCreateIncompleteFileFailed_AutoCloseDelay
+msgid "UserMsg_SegmentCreateIncompleteFileFailed_AutoCloseDelay"
+msgstr "0"
+
+#: UserMsg_GuiSettingsSaveFailed_Title
+msgid "UserMsg_GuiSettingsSaveFailed_Title"
+msgstr "Saving Settings Failed"
+
+#: UserMsg_GuiSettingsSaveFailed_ShortMessage
+msgid "UserMsg_GuiSettingsSaveFailed_ShortMessage"
+msgstr "Failed to save user interface settings.\n\nReason:\n{0}"
+
+#: UserMsg_GuiSettingsSaveFailed_AutoCloseDelay
+msgid "UserMsg_GuiSettingsSaveFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_DownloadSettingsSaveFailed_Title
+msgid "UserMsg_DownloadSettingsSaveFailed_Title"
+msgstr "Saving Settings Failed"
+
+#: UserMsg_DownloadSettingsSaveFailed_ShortMessage
+msgid "UserMsg_DownloadSettingsSaveFailed_ShortMessage"
+msgstr "Failed to save download settings.\n\nReason:\n{0}"
+
+#: UserMsg_DownloadSettingsSaveFailed_AutoCloseDelay
+msgid "UserMsg_DownloadSettingsSaveFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_FavoritesSettingsSaveFailed_Title
+msgid "UserMsg_FavoritesSettingsSaveFailed_Title"
+msgstr "Saving Settings Failed"
+
+#: UserMsg_FavoritesSettingsSaveFailed_ShortMessage
+msgid "UserMsg_FavoritesSettingsSaveFailed_ShortMessage"
+msgstr "Failed to save favorites settings.\n\nReason:\n{0}"
+
+#: UserMsg_FavoritesSettingsSaveFailed_AutoCloseDelay
+msgid "UserMsg_FavoritesSettingsSaveFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_SharedFilesSaveFailed_Title
+msgid "UserMsg_SharedFilesSaveFailed_Title"
+msgstr "Saving Settings Failed"
+
+#: UserMsg_SharedFilesSaveFailed_ShortMessage
+msgid "UserMsg_SharedFilesSaveFailed_ShortMessage"
+msgstr "Failed to save shared file settings.\n\nReason:\n{0}"
+
+#: UserMsg_SharedFilesSaveFailed_AutoCloseDelay
+msgid "UserMsg_SharedFilesSaveFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_GuiSettingsLoadFailed_Title
+msgid "UserMsg_GuiSettingsLoadFailed_Title"
+msgstr "Loading Settings Failed"
+
+#: UserMsg_GuiSettingsLoadFailed_ShortMessage
+msgid "UserMsg_GuiSettingsLoadFailed_ShortMessage"
+msgstr "Failed to load user interface settings.\n\nReason:\n{0}"
+
+#: UserMsg_GuiSettingsLoadFailed_AutoCloseDelay
+msgid "UserMsg_GuiSettingsLoadFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_DownloadSettingsLoadFailed_Title
+msgid "UserMsg_DownloadSettingsLoadFailed_Title"
+msgstr "Loading Settings Failed"
+
+#: UserMsg_DownloadSettingsLoadFailed_ShortMessage
+msgid "UserMsg_DownloadSettingsLoadFailed_ShortMessage"
+msgstr "Failed to load download settings.\n\nReason:\n{0}"
+
+#: UserMsg_DownloadSettingsLoadFailed_AutoCloseDelay
+msgid "UserMsg_DownloadSettingsLoadFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_FavoritesSettingsLoadFailed_Title
+msgid "UserMsg_FavoritesSettingsLoadFailed_Title"
+msgstr "Loading Settings Failed"
+
+#: UserMsg_FavoritesSettingsLoadFailed_ShortMessage
+msgid "UserMsg_FavoritesSettingsLoadFailed_ShortMessage"
+msgstr "Failed to load favorites settings.\n\nReason:\n{0}"
+
+#: UserMsg_FavoritesSettingsLoadFailed_AutoCloseDelay
+msgid "UserMsg_FavoritesSettingsLoadFailed_AutoCloseDelay"
+msgstr "30000"
+
+#: UserMsg_SharedFilesLoadFailed_Title
+msgid "UserMsg_SharedFilesLoadFailed_Title"
+msgstr "Loading Settings Failed"
+
+#: UserMsg_SharedFilesLoadFailed_ShortMessage
+msgid "UserMsg_SharedFilesLoadFailed_ShortMessage"
+msgstr "Failed to load shared files.\n\nReason:\n{0}"
+
+#: UserMsg_SharedFilesLoadFailed_AutoCloseDelay
+msgid "UserMsg_SharedFilesLoadFailed_AutoCloseDelay"
+msgstr "30000"
+
+# Share Table Model
+#: Directory
+msgid "Directory"
+msgstr "Directory"
+
+#: SearchCount
+msgid "SearchCount"
+msgstr "Search Count"
+
+#: UploadCount
+msgid "UploadCount"
+msgstr "Upload Count"
+
+# UpdateNotificationDialog
+#: UpdateNotification_DialogTitle
+msgid "UpdateNotification_DialogTitle"
+msgstr "Phex Update Available"
+
+#: UpdateNotification_BannerHeader
+msgid "UpdateNotification_BannerHeader"
+msgstr "Phex Update "
+
+#: UpdateNotification_BannerSubHeader
+msgid "UpdateNotification_BannerSubHeader"
+msgstr "A update of Phex is available for download."
+
+#: UpdateNotification_YourVersion
+msgid "UpdateNotification_YourVersion"
+msgstr "Your Phex version:"
+
+#: UpdateNotification_AvailableStableVersion
+msgid "UpdateNotification_AvailableStableVersion"
+msgstr "Available Phex version:"
+
+#: UpdateNotification_AvailableBetaVersion
+msgid "UpdateNotification_AvailableBetaVersion"
+msgstr "Available Phex BETA version:"
+
+# CloseOptionsDialog
+#: CloseOptions
+msgid "CloseOptions"
+msgstr "Close Options"
+
+#: CloseOptionsText
+msgid "CloseOptionsText"
+msgstr "When shutting down Phex all connections to the network are closed and \    you will not be able to download or share.\n\    It is recommended you let Phex run in the background and keep your network \    connection alive."
+
+#: Shutdown
+msgid "Shutdown"
+msgstr "Shutdown Phex."
+
+#: MinimizeToBackground
+msgid "MinimizeToBackground"
+msgstr "Minimize Phex to the background."
+
+#: MinimizeToSysTray
+msgid "MinimizeToSysTray"
+msgstr "Minimize Phex to the system tray."
+
+# ConfigureDownloadDialog
+#: ConfigDownload_DialogTitleNew
+msgid "ConfigDownload_DialogTitleNew"
+msgstr "Configure new download"
+
+#: ConfigDownload_DialogTitleConfig
+msgid "ConfigDownload_DialogTitleConfig"
+msgstr "Configure download"
+
+#: ConfigDownload_BannerHeader
+msgid "ConfigDownload_BannerHeader"
+msgstr "Configure download"
+
+#: ConfigDownload_BannerSubHeader
+msgid "ConfigDownload_BannerSubHeader"
+msgstr "Configure and modify the settings for a download"
+
+#: ConfigDownload_File
+msgid "ConfigDownload_File"
+msgstr "File"
+
+#: ConfigDownload_FileName
+msgid "ConfigDownload_FileName"
+msgstr "Filename:"
+
+#: ConfigDownload_DestinationDirectory
+msgid "ConfigDownload_DestinationDirectory"
+msgstr "Destination directory:"
+
+#: ConfigDownload_Browse
+msgid "ConfigDownload_Browse"
+msgstr "Browse"
+
+#: ConfigDownload_ReSearchTerm
+msgid "ConfigDownload_ReSearchTerm"
+msgstr "Search term:"
+
+#: ConfigDownload_Options
+msgid "ConfigDownload_Options"
+msgstr "Options"
+
+#: ConfigDownload_DownloadStrategy
+msgid "ConfigDownload_DownloadStrategy"
+msgstr "Download strategy:"
+
+#: ConfigDownload_Priority
+msgid "ConfigDownload_Priority"
+msgstr "Priority:"
+
+#: ConfigDownload_AddToTop
+msgid "ConfigDownload_AddToTop"
+msgstr "Add to top"
+
+#: ConfigDownload_AddToBottom
+msgid "ConfigDownload_AddToBottom"
+msgstr "Add to bottom"
+
+#: ConfigDownload_SwitchToDownloadTab
+msgid "ConfigDownload_SwitchToDownloadTab"
+msgstr "Switch to download tab"
+
+#: ConfigDownload_SelectDestinationDirectory
+msgid "ConfigDownload_SelectDestinationDirectory"
+msgstr "Select destination directory"
+
+#: ConfigDownload_Select
+msgid "ConfigDownload_Select"
+msgstr "Select"
+
+#: ConfigDownload_SelectMnemonic
+msgid "ConfigDownload_SelectMnemonic"
+msgstr "S"
+
+#: ConfigDownload_ErrorNoFileName
+msgid "ConfigDownload_ErrorNoFileName"
+msgstr "No file name is provided."
+
+#: ConfigDownload_ErrorNoDestDir
+msgid "ConfigDownload_ErrorNoDestDir"
+msgstr "No destination directory is provided."
+
+#: ConfigDownload_ErrorInvalidDestDir
+msgid "ConfigDownload_ErrorInvalidDestDir"
+msgstr "Invalid destination directory."
+
+#: ConfigDownload_ErrorCreateDestDir
+msgid "ConfigDownload_ErrorCreateDestDir"
+msgstr "Can't create destination directory."
+
+#: ConfigDownload_ErrorMinSearchTerm
+msgid "ConfigDownload_ErrorMinSearchTerm"
+msgstr "The search term must be at least {0} characters long."
+
+# Options Dialog
+#: PhexOptions
+msgid "PhexOptions"
+msgstr "Phex Options"
+
+#: GeneralSettings
+msgid "GeneralSettings"
+msgstr "General Settings"
+
+#: Bandwidth
+msgid "Bandwidth"
+msgstr "Bandwidth"
+
+#: Filters
+msgid "Filters"
+msgstr "Filters"
+
+#: DownloadSharingSettings
+msgid "DownloadSharingSettings"
+msgstr "Download/Sharing Settings"
+
+#: Sharing
+msgid "Sharing"
+msgstr "Sharing"
+
+#: Directories
+msgid "Directories"
+msgstr "Directories"
+
+#: UserInterface
+msgid "UserInterface"
+msgstr "User Interface"
+
+#: General
+msgid "General"
+msgstr "General"
+
+#: WelcomePhexOptions
+msgid "WelcomePhexOptions"
+msgstr "Welcome to the Phex Options System!"
+
+#: OptionWelcomeText
+msgid "OptionWelcomeText"
+msgstr "<html>This window allows you to customize the way Phex works for you. The \    many different options are grouped into related categories, presented in \    the list at the left. To alter the settings for any specific part, \    simply click on that item in the list and its settings page will appear.<br>\    Clicking on a top-level item of any section shows a short help screen, like \    this one, describing the settings you can alter in that section.</html>"
+
+#: GeneralSettingsText
+msgid "GeneralSettingsText"
+msgstr "<html>This section of the options system allows you to change settings \     that affect the general operation of Phex.\     <table border=""><tr><td valign="">*</td><td>'Network' gives connection options to configure Phex for the Gnutella network.</td></tr>\     <tr><td valign="">*</td><td>'Firewall/Proxy' allows you to configure your firewall and proxy settings.</td></tr>\     <tr><td valign="">*</td><td>'Bandwidth' lets you select how much bandwidth you want to use for \      network communication, download and upload.</td></tr>\     <tr><td valign="">*</td><td>'Disconnect Policy' lets you configure rules to disconnect poor nodes.</td></tr></table></html>"
+
+#: DownloadSharingSettingsText
+msgid "DownloadSharingSettingsText"
+msgstr "<html>This section of the options system allows you to change settings that \    affect the download and upload operation of Phex.\    <table border=""><tr><td valign="">*</td><td>'Download' lets you control how many downloads Phex \      should run and gives you options to configure download handling.</td></tr>\    <tr><td valign="">*</td><td>'Sharing' lets you control how many uploads Phex allows and other \      aspects of file sharing.</td></tr>\    <tr><td valign="">*</td><td>'Directories' lets you define your download and sharing directory and \      its associated settings.</td></tr></table></html>"
+
+#: UserInterfaceText
+msgid "UserInterfaceText"
+msgstr "<html>This section of the options system allows you to change settings that \    affect the user interface of Phex.\    <table border=""><tr><td valign="">*</td><td>'General' lets you alter the look and feel of the \      user interface and its font.</td></tr>\    <tr><td valign="">*</td><td>'Language' lets you change the user interface language. \    <tr><td valign="">*</td><td>'Prompts' lets you control which alerts and notifications \      you want to see.</td></tr></table></html>"
+
+#: WrongNumberFormat
+msgid "WrongNumberFormat"
+msgstr "The format of the entered number is wrong."
+
+#: FormatError
+msgid "FormatError"
+msgstr "Format Error"
+
+# Network Settings
+#: NetworkSettings
+msgid "NetworkSettings"
+msgstr "Network Settings"
+
+#: UltrapeerSettings
+msgid "UltrapeerSettings"
+msgstr "Ultrapeer Settings"
+
+#: LeafSettings
+msgid "LeafSettings"
+msgstr "Leaf Settings"
+
+#: ListeningPort
+msgid "ListeningPort"
+msgstr "Listening Port"
+
+#: AutoConnectOnStartup
+msgid "AutoConnectOnStartup"
+msgstr "Auto connect on startup."
+
+#: ErrorDisplayTime
+msgid "ErrorDisplayTime"
+msgstr "Error Display Time (sec)"
+
+#: ConnectionTimeout
+msgid "ConnectionTimeout"
+msgstr "Connection Timeout (sec)"
+
+#: ConnectedToLAN
+msgid "ConnectedToLAN"
+msgstr "Other nearby Phex running?"
+
+#: TTTConnectedToLAN
+msgid "TTTConnectedToLAN"
+msgstr "If checked direct access to private IP addresses is tried."
+
+#: ListenerError
+msgid "ListenerError"
+msgstr "Listener Error"
+
+#: FailedToListenOnNewPort
+msgid "FailedToListenOnNewPort"
+msgstr "Failed to start listener after changing port."
+
+#: AllowToBecomeUltrapeer
+msgid "AllowToBecomeUltrapeer"
+msgstr "Allow to become an Ultrapeer."
+
+#: TTTAllowToBecomeUltrapeer
+msgid "TTTAllowToBecomeUltrapeer"
+msgstr "If checked this node is allowed to gain the Ultrapeer status."
+
+#: ForceToBeUltrapeer
+msgid "ForceToBeUltrapeer"
+msgstr "Force to be an Ultrapeer."
+
+#: TTTForceToBeUltrapeer
+msgid "TTTForceToBeUltrapeer"
+msgstr "If checked this node will always be in Ultrapeer mode."
+
+#: AllowToBecomeLeaf
+msgid "AllowToBecomeLeaf"
+msgstr "Allow to become an Ultraleaf."
+
+#: TTTAllowToBecomeLeaf
+msgid "TTTAllowToBecomeLeaf"
+msgstr "If checked this node is allowed to connect to an Ultrapeer as a Leaf node."
+
+#: AcceptOnlyUltrapeers
+msgid "AcceptOnlyUltrapeers"
+msgstr "Accept only Ultrapeers."
+
+#: TTTAcceptOnlyUltrapeers
+msgid "TTTAcceptOnlyUltrapeers"
+msgstr "If checked this node will always be in Leaf mode and only connect to Ultrapeers."
+
+#: ConnectionsToUltrapeers
+msgid "ConnectionsToUltrapeers"
+msgstr "Connections to Ultrapeers"
+
+#: TTTToUltrapeers
+msgid "TTTToUltrapeers"
+msgstr "Specifys the number of connections to Ultrapeers."
+
+#: ConnectionsToLeafs
+msgid "ConnectionsToLeafs"
+msgstr "Connections to Leaves"
+
+#: TTTToLeafs
+msgid "TTTToLeafs"
+msgstr "Specifys the number of connections to Leaves."
+
+#: ConnectionsToPeers
+msgid "ConnectionsToPeers"
+msgstr "Connections to Peers"
+
+#: TTTToPeers
+msgid "TTTToPeers"
+msgstr "Specifys the number of connections to Peers."
+
+#: NetworkSettings_MaxConcurrentConnectAttempts
+msgid "NetworkSettings_MaxConcurrentConnectAttempts"
+msgstr "Max concurrent connects"
+
+#: NetworkSettings_TTTMaxConcurrentConnectAttempts
+msgid "NetworkSettings_TTTMaxConcurrentConnectAttempts"
+msgstr "<html>The maximal number of concurrent connect attempts.<br>Windows XP SP2 has a limit of 10 concurrent connects.<br> \    For more info check the FAQ on the Phex homepage.</html>"
+
+#: NetworkSettings_LimitExceeded
+msgid "NetworkSettings_LimitExceeded"
+msgstr "Limit Exceeded"
+
+#: NetworkSettings_ListeningPortLimitExceeded
+msgid "NetworkSettings_ListeningPortLimitExceeded"
+msgstr "You exceeded the limit for the listening port (Recommended: 4000-65500)."
+
+#: NetworkSettings_Leaf2UpLimitExceeded
+msgid "NetworkSettings_Leaf2UpLimitExceeded"
+msgstr "You exceeded the limit of {0} Ultrapeer connections as Leaf."
+
+# Proxy Settings
+#: FirewallProxy
+msgid "FirewallProxy"
+msgstr "Firewall/Proxy"
+
+#: FirewallSettings
+msgid "FirewallSettings"
+msgstr "Firewall Settings"
+
+#: SOCKSSettings
+msgid "SOCKSSettings"
+msgstr "SOCKS 5 Settings"
+
+#: BehindFirewall
+msgid "BehindFirewall"
+msgstr "Host is behind a firewall."
+
+#: ExportIPAs
+msgid "ExportIPAs"
+msgstr "Export Host IP as"
+
+#: UseSocks5Proxy
+msgid "UseSocks5Proxy"
+msgstr "Use Socks5 Proxy"
+
+#: ProxyHostIP
+msgid "ProxyHostIP"
+msgstr "Host/IP"
+
+#: Port
+msgid "Port"
+msgstr "Port"
+
+#: Authentication
+msgid "Authentication"
+msgstr "Authentication"
+
+#: Username
+msgid "Username"
+msgstr "Username"
+
+#: Password
+msgid "Password"
+msgstr "Password"
+
+#: HttpProxyInfoText
+msgid "HttpProxyInfoText"
+msgstr "The HTTP proxy is only used to access the Gnutella Web Cache \     and check for Phex updates. No Gnutella traffic can be sent over the \     HTTP proxy. Use the SOCKS 5 proxy to tunnel Gnutella traffic."
+
+#: HTTPProxySettings
+msgid "HTTPProxySettings"
+msgstr "HTTP Proxy Settings"
+
+#: UseHTTPProxy
+msgid "UseHTTPProxy"
+msgstr "Use HTTP Proxy"
+
+#: IPFormatError
+msgid "IPFormatError"
+msgstr "IP Format Error"
+
+#: WrongExportIPFormat
+msgid "WrongExportIPFormat"
+msgstr "Wrong export IP format."
+
+# Disconnect Policy
+#: DisconnectPolicy
+msgid "DisconnectPolicy"
+msgstr "Disconnect Policy"
+
+#: DisconnectNodesAccordingRules
+msgid "DisconnectNodesAccordingRules"
+msgstr "Disconnect Nodes according to these Rules"
+
+#: SendQueueExceeds
+msgid "SendQueueExceeds"
+msgstr "Send queue exceeds"
+
+#: DropPacketExceeds
+msgid "DropPacketExceeds"
+msgstr "Drop Packet Exceeds (%)"
+
+#: MinSharedFiles
+msgid "MinSharedFiles"
+msgstr "Min. # of Shared Files"
+
+#: MinSharedMB
+msgid "MinSharedMB"
+msgstr "Min. # of Shared MB"
+
+#: DisconnectNoVendorNodes
+msgid "DisconnectNoVendorNodes"
+msgstr "Disconnect nodes without vendor string."
+
+# Bandwidth
+#: NetworkSpeedSettings
+msgid "NetworkSpeedSettings"
+msgstr "Network Speed Settings"
+
+#: ConnectionTypeSpeed
+msgid "ConnectionTypeSpeed"
+msgstr "Connection type and speed"
+
+#: TotalBandwidth
+msgid "TotalBandwidth"
+msgstr "Total bandwidth allowed to use"
+
+#: PhexBandwidthSettings
+msgid "PhexBandwidthSettings"
+msgstr "Phex Bandwidth Settings"
+
+#: MaxNetworkBandwidth
+msgid "MaxNetworkBandwidth"
+msgstr "Max network bandwidth"
+
+#: MaxDownloadBandwidth
+msgid "MaxDownloadBandwidth"
+msgstr "Max download bandwidth"
+
+#: MaxUploadBandwidth
+msgid "MaxUploadBandwidth"
+msgstr "Maximum upload bandwidth"
+
+#: Unlimited
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: Modem
+msgid "Modem"
+msgstr "56K Modem"
+
+#: ISDN
+msgid "ISDN"
+msgstr "64K ISDN"
+
+#: DualISDN
+msgid "DualISDN"
+msgstr "128K Dual ISDN"
+
+#: DSLCable1
+msgid "DSLCable1"
+msgstr "1024Kbps DSL / Cable"
+
+#: T1
+msgid "T1"
+msgstr "1.5Mbps T1"
+
+#: DSLCable2
+msgid "DSLCable2"
+msgstr "2048Kbps DSL / Cable"
+
+#: DSLCable3
+msgid "DSLCable3"
+msgstr "6Mbps DSL / Cable"
+
+#: 10LAN
+msgid "10LAN"
+msgstr "10Mbps LAN"
+
+#: DSLCable4
+msgid "DSLCable4"
+msgstr "16Mbps DSL / Cable"
+
+#: T3
+msgid "T3"
+msgstr "44 Mbps T3"
+
+#: 100LAN
+msgid "100LAN"
+msgstr "100Mbps LAN"
+
+#: 1000LAN
+msgid "1000LAN"
+msgstr "1Gbps LAN"
+
+#: PerSec
+msgid "PerSec"
+msgstr "/s"
+
+#: BandwidthSettings_UseLogarithmicSliders
+msgid "BandwidthSettings_UseLogarithmicSliders"
+msgstr "Use logarithmic sliders"
+
+#: BandwidthSettings_TTTUseLogarithmicSliders
+msgid "BandwidthSettings_TTTUseLogarithmicSliders"
+msgstr "When activated the bandwidth sliders use a logarithmic scale."
+
+# UI Settings
+#: GeneralUserInterfaceSettings
+msgid "GeneralUserInterfaceSettings"
+msgstr "General User Interface Settings"
+
+#: LookAndFeel
+msgid "LookAndFeel"
+msgstr "Look and Feel:"
+
+#: TTTLookAndFeel
+msgid "TTTLookAndFeel"
+msgstr "The Look & Feel used to render the Phex user interface."
+
+#: ColorTheme
+msgid "ColorTheme"
+msgstr "Color theme:"
+
+#: TTTColorTheme
+msgid "TTTColorTheme"
+msgstr "The color theme used in the Phex user interface."
+
+#: SystemLAFExtension
+msgid "SystemLAFExtension"
+msgstr "( System Look and Feel )"
+
+#: DisplayTooltipText
+msgid "DisplayTooltipText"
+msgstr "Display tooltip help text."
+
+#: TTTDisplayTooltipText
+msgid "TTTDisplayTooltipText"
+msgstr "If checked tooltip help text is displayed for elements."
+
+#: ShowTableHorizontalLines
+msgid "ShowTableHorizontalLines"
+msgstr "Show horizontal table lines."
+
+#: TTTShowTableHorizontalLines
+msgid "TTTShowTableHorizontalLines"
+msgstr "If checked tables show horizontal lines between cells."
+
+#: ShowTableVerticalLines
+msgid "ShowTableVerticalLines"
+msgstr "Show vertical table lines."
+
+#: TTTShowTableVerticalLines
+msgid "TTTShowTableVerticalLines"
+msgstr "If checked tables show vertical lines between cells."
+
+#: WhenClosingMinToSysTray
+msgid "WhenClosingMinToSysTray"
+msgstr "Minimize to system tray when closing."
+
+#: WhenClosingMinToBackground
+msgid "WhenClosingMinToBackground"
+msgstr "Minimize to background when closing."
+
+#: LAFError
+msgid "LAFError"
+msgstr "Look & Feel Error"
+
+#: LAFInstantiationError
+msgid "LAFInstantiationError"
+msgstr "Can't instantiate the requested Look & Feel class."
+
+#: LAFAccessError
+msgid "LAFAccessError"
+msgstr "Can't access the requested Look & Feel class."
+
+#: LAFNotFound
+msgid "LAFNotFound"
+msgstr "The requested Look & Feel class can't be found."
+
+#: LAFNotSupported
+msgid "LAFNotSupported"
+msgstr "Your platform dosn't support or permit this Look & Feel.\n\    It depends on special resources or legal agreements that\n\    aren't defined for the current platform."
+
+#: ThemeInstantiationError
+msgid "ThemeInstantiationError"
+msgstr "Can't instantiate the requested Look & Feel theme class."
+
+#: ThemeAccessError
+msgid "ThemeAccessError"
+msgstr "Can't access the requested Look & Feel theme class."
+
+#: ThemeNotFound
+msgid "ThemeNotFound"
+msgstr "The requested Look & Feel theme class can't be found."
+
+#: RestartToSwitchLF
+msgid "RestartToSwitchLF"
+msgstr "Restart to switch Look & Feel"
+
+#: UISettings_ClearSearchHistory
+msgid "UISettings_ClearSearchHistory"
+msgstr "Clear Search History"
+
+#: LAF_ErrorLoadingSwitchToDefault
+msgid "LAF_ErrorLoadingSwitchToDefault"
+msgstr "An error while loading your look and feel.\n\    Phex is switching to the default look and feel."
+
+#: UISettings_IconPack
+msgid "UISettings_IconPack"
+msgstr "Icon pack:"
+
+#: UISettings_TTTIconPack
+msgid "UISettings_TTTIconPack"
+msgstr "The icon pack used in the Phex user interface. A restart\    is required to switch the icon pack."
+
+# Language Settings
+#: LanguageSettings_Language
+msgid "LanguageSettings_Language"
+msgstr "Language"
+
+#: LanguageSettings_LanguageSettings
+msgid "LanguageSettings_LanguageSettings"
+msgstr "Language Settings"
+
+#: LanguageSettings_SelectYourLanguage
+msgid "LanguageSettings_SelectYourLanguage"
+msgstr "Select the language you wish to use Phex in:"
+
+#: LanguageSettings_RestartNote
+msgid "LanguageSettings_RestartNote"
+msgstr "Note: You need to restart Phex for the changes to take effect."
+
+# Prompt Settings
+#: PromptSettings_Prompts
+msgid "PromptSettings_Prompts"
+msgstr "Prompts"
+
+#: PromptSettings_PromptSettings
+msgid "PromptSettings_PromptSettings"
+msgstr "Prompt Settings"
+
+#: PromptSettings_ClosePhexOptions
+msgid "PromptSettings_ClosePhexOptions"
+msgstr "Close Phex options."
+
+#: PromptSettings_TTTClosePhexOptions
+msgid "PromptSettings_TTTClosePhexOptions"
+msgstr "If checked, options to close or send Phex to background will be displayed."
+
+#: PromptSettings_NotifyOnNewBeta
+msgid "PromptSettings_NotifyOnNewBeta"
+msgstr "Notify if new Phex Beta is available."
+
+#: PromptSettings_TTTNotifyOnNewBeta
+msgid "PromptSettings_TTTNotifyOnNewBeta"
+msgstr "If checked a message is displayed when a new Phex Beta is available."
+
+#: PromptSettings_RespectCopyrightNotice
+msgid "PromptSettings_RespectCopyrightNotice"
+msgstr "Respect copyright notice."
+
+#: PromptSettings_TTTRespectCopyrightNotice
+msgid "PromptSettings_TTTRespectCopyrightNotice"
+msgstr "If checked the copyright notice is displayed on startup."
+
+# Debug Settings
+#: DebugSettings_Debug
+msgid "DebugSettings_Debug"
+msgstr "Debug"
+
+#: DebugSettings_DebugSettings
+msgid "DebugSettings_DebugSettings"
+msgstr "Debug Settings"
+
+#: DebugSettings_LogLevel
+msgid "DebugSettings_LogLevel"
+msgstr "Log Level"
+
+#: DebugSettings_TTTDownloadType
+msgid "DebugSettings_TTTDownloadType"
+msgstr "Activate download logging."
+
+#: DebugSettings_TTTUploadType
+msgid "DebugSettings_TTTUploadType"
+msgstr "Activate upload logging."
+
+#: DebugSettings_TTTSearchType
+msgid "DebugSettings_TTTSearchType"
+msgstr "Activate search logging."
+
+#: DebugSettings_TTTNetworkType
+msgid "DebugSettings_TTTNetworkType"
+msgstr "Activate network logging."
+
+#: GUI
+msgid "GUI"
+msgstr "GUI"
+
+#: DebugSettings_TTTGuiType
+msgid "DebugSettings_TTTGuiType"
+msgstr "Activate GUI logging."
+
+#: Performance
+msgid "Performance"
+msgstr "Performance"
+
+#: DebugSettings_TTTPerformanceType
+msgid "DebugSettings_TTTPerformanceType"
+msgstr "Activate performance logging."
+
+#: DebugSettings_TTTLogLevel
+msgid "DebugSettings_TTTLogLevel"
+msgstr "The level to log up to."
+
+#: DownloadNet
+msgid "DownloadNet"
+msgstr "Download Net"
+
+#: DebugSettings_TTTDownloadNetType
+msgid "DebugSettings_TTTDownloadNetType"
+msgstr "Activate download network logging."
+
+# Download Settings
+#: GeneralDownloadSettings
+msgid "GeneralDownloadSettings"
+msgstr "General Download Settings"
+
+#: DownloadSettings_TotalParallelDownloads
+msgid "DownloadSettings_TotalParallelDownloads"
+msgstr "Max download connections global"
+
+#: DownloadSettings_TTTTotalParallelDownloads
+msgid "DownloadSettings_TTTTotalParallelDownloads"
+msgstr "The total number of download connections for all download files."
+
+#: DownloadSettings_ParallelDownloadsPerFile
+msgid "DownloadSettings_ParallelDownloadsPerFile"
+msgstr "Max downloads connections per file"
+
+#: DownloadSettings_TTTParallelDownloadsPerFile
+msgid "DownloadSettings_TTTParallelDownloadsPerFile"
+msgstr "The max number of download connections for a single download file."
+
+#: DownloadSettings_InitialSegmentSizeKb
+msgid "DownloadSettings_InitialSegmentSizeKb"
+msgstr "Initial download segment size (Kb)"
+
+#: DownloadSettings_TTTInitialSegmentSizeKb
+msgid "DownloadSettings_TTTInitialSegmentSizeKb"
+msgstr "<html>The segment size initially requested per connection. It's dynamically adjusted<br>depending on connection transfer speed and "".</html>"
+
+#: DownloadSettings_SegmentTransferTimeSec
+msgid "DownloadSettings_SegmentTransferTimeSec"
+msgstr "Target time per segment (seconds)"
+
+#: DownloadSettings_TTTSegmentTransferTimeSec
+msgid "DownloadSettings_TTTSegmentTransferTimeSec"
+msgstr "<html>Used together with the "" to dynamically<br>adjust the segment size to try to fit the specified target time.</html>"
+
+#: DownloadSettings_ReadoutDownloadedMagmas
+msgid "DownloadSettings_ReadoutDownloadedMagmas"
+msgstr "Auto readout downloaded magma files."
+
+#: DownloadSettings_TTTReadoutDownloadedMagmas
+msgid "DownloadSettings_TTTReadoutDownloadedMagmas"
+msgstr "<html>When active downloaded magma files are parsed and contained magnet<br>links are added for download.</html>"
+
+#: DownloadSettings_ReadoutDownloadedMetalink
+msgid "DownloadSettings_ReadoutDownloadedMetalink"
+msgstr "Auto readout downloaded metalink files."
+
+#: DownloadSettings_TTTReadoutDownloadedMetalink
+msgid "DownloadSettings_TTTReadoutDownloadedMetalink"
+msgstr "<html>When active downloaded metalink files are parsed and contained magnet<br>links are added for download.</html>"
+
+#: DownloadSettings_ReadoutDownloadedRSS
+msgid "DownloadSettings_ReadoutDownloadedRSS"
+msgstr "Auto readout downloaded RSS files."
+
+#: DownloadSettings_TTTReadoutDownloadedRSS
+msgid "DownloadSettings_TTTReadoutDownloadedRSS"
+msgstr "<html>When active downloaded RSS files (ending in "") are parsed and contained magnet<br>links are added for download.</html>"
+
+#: DownloadSettings_AutoRemoveCompletedDownloads
+msgid "DownloadSettings_AutoRemoveCompletedDownloads"
+msgstr "Auto remove completed downloads."
+
+#: DownloadSettings_TTTAutoRemoveCompletedDownloads
+msgid "DownloadSettings_TTTAutoRemoveCompletedDownloads"
+msgstr "Downloads are removed from the download list once completed."
+
+#: DownloadSettings_DownloadSubscriptionsSilently
+msgid "DownloadSettings_DownloadSubscriptionsSilently"
+msgstr "Download subscriptions without message. "
+
+#: DownloadSettings_TTTDownloadSubscriptionsSilently
+msgid "DownloadSettings_TTTDownloadSubscriptionsSilently"
+msgstr "<html>When active, Phex will suppress the request to download your subscription <br>and instead download it automatically in the background.</html>"
+
+#: DownloadSettings_EnableHitSnooping
+msgid "DownloadSettings_EnableHitSnooping"
+msgstr "Enable Hit Snooping"
+
+#: DownloadSettings_TTTEnableHitSnooping
+msgid "DownloadSettings_TTTEnableHitSnooping"
+msgstr "<html>When active Phex will constantly monitor all query traffic for additional<br>download sources.</html> "
+
+#: PushTimeout
+msgid "PushTimeout"
+msgstr "Push timeout"
+
+# Sharing Settings
+#: AutoCleanFinishedUploads
+msgid "AutoCleanFinishedUploads"
+msgstr "Auto clean finished uploads."
+
+#: MaxParallelUploads
+msgid "MaxParallelUploads"
+msgstr "Max parallel uploads"
+
+#: MaxUploadsPerHost
+msgid "MaxUploadsPerHost"
+msgstr "Max uploads per host"
+
+#: GeneralUploadSettings
+msgid "GeneralUploadSettings"
+msgstr "General Upload Settings"
+
+#: MaxReturnedSearchHits
+msgid "MaxReturnedSearchHits"
+msgstr "Max returned search hits"
+
+#: ExceedSearchHitLimit
+msgid "ExceedSearchHitLimit"
+msgstr "The maximum number of returned hits is 255."
+
+#: AllowBrowsingDirectories
+msgid "AllowBrowsingDirectories"
+msgstr "Allow browsing of directories."
+
+#: SharePartialFiles
+msgid "SharePartialFiles"
+msgstr "Share partial files"
+
+#: AllowUploadQueuing
+msgid "AllowUploadQueuing"
+msgstr "Allow Upload Queuing"
+
+#: MaxQueueLength
+msgid "MaxQueueLength"
+msgstr "Max Queue Length"
+
+#: MinPollTime
+msgid "MinPollTime"
+msgstr "Min Poll Time"
+
+#: MaxPollTime
+msgid "MaxPollTime"
+msgstr "Max Poll Time"
+
+#: UploadQueuing
+msgid "UploadQueuing"
+msgstr "Upload Queuing"
+
+# Directory Settings
+#: DirSettings_DownloadFolders
+msgid "DirSettings_DownloadFolders"
+msgstr "Download Folders"
+
+#: DirSettings_Incomplete
+msgid "DirSettings_Incomplete"
+msgstr "Incomplete"
+
+#: DirSettings_Completed
+msgid "DirSettings_Completed"
+msgstr "Completed"
+
+#: DirSettings_SetFolder
+msgid "DirSettings_SetFolder"
+msgstr "Set Folder"
+
+#: DownloadDirectory
+msgid "DownloadDirectory"
+msgstr "Download Directory"
+
+#: DirectoryOnlyFileFilter
+msgid "DirectoryOnlyFileFilter"
+msgstr "Directories Only"
+
+#: Select
+msgid "Select"
+msgstr "Select"
+
+#: SelectMnemonic
+msgid "SelectMnemonic"
+msgstr "S"
+
+#: SelectDownloadDirectory
+msgid "SelectDownloadDirectory"
+msgstr "Select Download Directory"
+
+#: SelectIncompleteDirectory
+msgid "SelectIncompleteDirectory"
+msgstr "Select Incomplete Directory"
+
+#: AddUploadDirectories
+msgid "AddUploadDirectories"
+msgstr "Add Upload Directories"
+
+#: AddDirectoryMnemonic
+msgid "AddDirectoryMnemonic"
+msgstr "A"
+
+#: DirectoryError
+msgid "DirectoryError"
+msgstr "Directory Error"
+
+#: NoDirectoryShared
+msgid "NoDirectoryShared"
+msgstr "No directory is shared. You must share at least one directory."
+
+#: IncompleteDirShared
+msgid "IncompleteDirShared"
+msgstr "It's not allowed to share the incomplete directory"
+
+#: CantCreateDownloadDir
+msgid "CantCreateDownloadDir"
+msgstr "Can''t create the download directory:\n\"{0}\"."
+
+#: CantCreateIncompleteDir
+msgid "CantCreateIncompleteDir"
+msgstr "Can''t create the incomplete directory:\n\"{0}\"."
+
+# sw download status
+#: UnrecognizedStatus
+msgid "UnrecognizedStatus"
+msgstr "Unrecognized Status ({0})."
+
+#: CandidateIgnored
+msgid "CandidateIgnored"
+msgstr "Ignored candidate"
+
+#: CandidateOffline
+msgid "CandidateOffline"
+msgstr "Candidate not available.{0,choice,0#|0< Waiting {1}.}"
+
+#: WaitingForDownload
+msgid "WaitingForDownload"
+msgstr "Waiting"
+
+#: HostBusy
+msgid "HostBusy"
+msgstr "Host busy.{0,choice,0#|0< Waiting {1}.}"
+
+#: RangeUnavailable
+msgid "RangeUnavailable"
+msgstr "Range unavailable. Waiting {0}."
+
+#: RemotlyQueued
+msgid "RemotlyQueued"
+msgstr "Queued on position: {0}. Waiting {1}."
+
+#: ConnectionFailed
+msgid "ConnectionFailed"
+msgstr "Connection failed ({0}).{1,choice,0#|0< Waiting {2}.}"
+
+#: Connecting
+msgid "Connecting"
+msgstr "Connecting..."
+
+#: Requesting
+msgid "Requesting"
+msgstr "Requesting..."
+
+#: Downloading
+msgid "Downloading"
+msgstr "Downloading..."
+
+#: Completed
+msgid "Completed"
+msgstr "Completed!"
+
+#: PushRequest
+msgid "PushRequest"
+msgstr "Push request... Waiting {0} sec."
+
+#: Stopped
+msgid "Stopped"
+msgstr "Stopped"
+
+#: FileQueued
+msgid "FileQueued"
+msgstr "Queued..."
+
+## Select Network Dialog
+#: SelectNet_SelectNetwork
+msgid "SelectNet_SelectNetwork"
+msgstr "Select Network"
+
+#: SelectNet_SelectNetworkToJoin
+msgid "SelectNet_SelectNetworkToJoin"
+msgstr "Select network to join"
+
+#: SelectNet_NetworkSelectionText
+msgid "SelectNet_NetworkSelectionText"
+msgstr "Phex allows you to create/join private networks,\    independent from the public Gnutella network. The network name you define serves\    as a 'password' you need to access a private network.\nTo join the Gnutella Network\    select '<General Gnutella Network>'."
+
+#: SelectNet_NetworkName
+msgid "SelectNet_NetworkName"
+msgstr "Network name:"
+
+#: SelectNet_AutoJoinNetwork
+msgid "SelectNet_AutoJoinNetwork"
+msgstr "Join network on startup."
+
+#: SelectNet_AutoConnectNetwork
+msgid "SelectNet_AutoConnectNetwork"
+msgstr "Auto connect on startup."
+
+#: RespectCopyrightDialog_DialogTitle
+msgid "RespectCopyrightDialog_DialogTitle"
+msgstr "Respect Copyright"
+
+#: RespectCopyrightDialog_Text
+msgid "RespectCopyrightDialog_Text"
+msgstr "<html><center><b>Please note</b><br><br>Phex isn't able to control or monitor the content of the Gnutella network.<br><br>Please respect your local copyright laws when you download and share files.</center>"
+
+#: RespectCopyrightDialog_DontShowAgain
+msgid "RespectCopyrightDialog_DontShowAgain"
+msgstr "Don't show this again."
+
+## sys tray
+#: TTTSysTray
+msgid "TTTSysTray"
+msgstr "Phex"
+
+
+#:StatusBar_TTTLeaf
+msgid "StatusBar_TTTLeaf"
+msgstr "Node status: Leaf mode"
+
+#:RuleWizard_TTTRuleNotes
+msgid "RuleWizard_TTTRuleNotes"
+msgstr "Take notes on this rule"
+
+#:StatusBar_TTTLibrary
+msgid "StatusBar_TTTLibrary"
+msgstr "Number of shared files / Total files size"
+
+#:NetworkTab_LeafMode
+msgid "NetworkTab_LeafMode"
+msgstr "Leaf mode"
+
+#:NetworkTab_NodeStatus
+msgid "NetworkTab_NodeStatus"
+msgstr "Node status:"
+
+#:StatusBar_Library
+msgid "StatusBar_Library"
+msgstr "{0}/{1}"
+
+#:AllocatingSegment
+msgid "AllocatingSegment"
+msgstr "Waiting for segments..."
+
+#:RuleWizard_RuleNotes
+msgid "RuleWizard_RuleNotes"
+msgstr "Notes"
+
+#:StatusBar_TTTUltrapeer
+msgid "StatusBar_TTTUltrapeer"
+msgstr "Node status: Ultrapeer mode"
+
+
+#:NetworkTab_UltraPeer
+msgid "NetworkTab_UltraPeer"
+msgstr "Ultrapeer"
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="org.toxiclab.droidg" android:versionCode="3" android:versionName="1.1" android:installLocation="preferExternal">
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:debuggable="false">
+        <activity android:label="@string/app_name" android:name=".DPhex" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+<activity android:name=".DownloadActivity" android:screenOrientation="portrait"></activity>
+<activity android:name=".SearchActivity" android:screenOrientation="portrait"></activity>
+<activity android:name=".DroidGPreference" android:screenOrientation="portrait"></activity>
+<activity android:name=".WhatsNewActivity" android:screenOrientation="portrait"></activity>
+<activity android:name=".BrowseHostActivity" android:screenOrientation="portrait"></activity>
+</application>
+    <uses-sdk android:minSdkVersion="7"/>
+
+
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+</manifest> 

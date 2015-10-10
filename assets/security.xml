@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phex phex-version="3.4.2.116">
+  <security>
+    <ip-access-rule>
+      <isSystemRule>true</isSystemRule>
+      <triggerCount>7</triggerCount>
+      <ip>26600000</ip>
+      <cidr>11</cidr>
+    </ip-access-rule>
+    <ip-access-rule>
+      <isSystemRule>true</isSystemRule>
+      <triggerCount>16</triggerCount>
+      <ip>57ECC248</ip>
+      <cidr>29</cidr>
+    </ip-access-rule>
+    <ip-access-rule>
+      <isSystemRule>true</isSystemRule>
+      <triggerCount>2</triggerCount>
+      <ip>CEA90000</ip>
+      <cidr>16</cidr>
+    </ip-access-rule>
+    <ip-access-rule>
+      <isSystemRule>true</isSystemRule>
+      <triggerCount>1</triggerCount>
+      <ip>43374000</ip>
+      <cidr>18</cidr>
+    </ip-access-rule>
+  </security>
+</phex>

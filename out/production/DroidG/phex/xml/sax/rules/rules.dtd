@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT phex (search-rule-list)>
+<!ATTLIST phex
+	version CDATA #REQUIRED >
+
+<!ELEMENT search-rule-list (search-rule*)>
+
+<!ELEMENT search-rule (name?, permanently-enabled?, and-condition?, consequences-list? )>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT permanently-enabled (#PCDATA)>
+
+<!ELEMENT and-condition (and-condition*, not-condition*, filename-condition*,
+          filesize-condition*, mediatype-condition* )>
+<!ELEMENT not-condition (and-condition*, not-condition*, filename-condition*,
+          filesize-condition*, mediatype-condition* )>
+          
+<!ELEMENT consequences-list (fiterfromsearch-consequence?, removefromsearch-consequence? downloadfile-consequence? banhost-consequence?)>
+
+<!ELEMENT filename-condition (term*)>
+<!ELEMENT term (#PCDATA)>
+
+<!ELEMENT filesize-condition (range*)>
+<!ELEMENT range EMPTY>
+<!ATTLIST range
+	min CDATA #IMPLIED
+	max CDATA #IMPLIED >
+
+<!ELEMENT mediatype-condition (media*)>
+<!ATTLIST media
+	name CDATA #IMPLIED >
